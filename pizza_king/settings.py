@@ -53,30 +53,30 @@ MIDDLEWARE_CLASSES = [
 
 ]
 
- DEBUG_PROPAGATE_EXCEPTIONS = DEBUG  # never set this True on a live site
- LOGGING = {
-     'version': 1,
-     'disable_existing_loggers': True,
-     'formatters': {
-         'simple': {
-             'format': '%(levelname)s %(message)s'
-         },
+DEBUG_PROPAGATE_EXCEPTIONS = DEBUG  # never set this True on a live site
+LOGGING = {
+ 'version': 1,
+ 'disable_existing_loggers': True,
+ 'formatters': {
+     'simple': {
+         'format': '%(levelname)s %(message)s'
      },
-     'handlers': {
-         'console':{
-             'level':'DEBUG',
-             'class':'logging.StreamHandler',
-             'formatter': 'simple'
-         },
+ },
+ 'handlers': {
+     'console':{
+         'level':'DEBUG',
+         'class':'logging.StreamHandler',
+         'formatter': 'simple'
      },
-     'loggers': {
-         'django_mako_plus': {
-             'handlers': ['console'],
-             'level': 'DEBUG',
-             'propagate': False,
-         },
+ },
+ 'loggers': {
+     'django_mako_plus': {
+         'handlers': ['console'],
+         'level': 'DEBUG',
+         'propagate': False,
      },
- }
+ },
+}
 
 ROOT_URLCONF = 'pizza_king.urls'
 
