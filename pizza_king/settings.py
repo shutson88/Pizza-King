@@ -147,47 +147,47 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
- STATICFILES_DIRS = (
-     # SECURITY WARNING: this next line must be commented out at deployment
-     BASE_DIR,  
- )
- STATIC_ROOT = os.path.join(BASE_DIR, 'static')  
+STATICFILES_DIRS = (
+ # SECURITY WARNING: this next line must be commented out at deployment
+ BASE_DIR,  
+)
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')  
 
 ###############################################################
  ###   Specific settings for the Django-Mako-Plus app
 
- DJANGO_MAKO_PLUS = {
-     # identifies where the Mako template cache will be stored, relative to each app
-     'TEMPLATES_CACHE_DIR': 'cached_templates',
+DJANGO_MAKO_PLUS = {
+ # identifies where the Mako template cache will be stored, relative to each app
+ 'TEMPLATES_CACHE_DIR': 'cached_templates',
 
-     # the default app and page to render in Mako when the url is too short
-     'DEFAULT_PAGE': 'index',
-     'DEFAULT_APP': 'homepage',
+ # the default app and page to render in Mako when the url is too short
+ 'DEFAULT_PAGE': 'index',
+ 'DEFAULT_APP': 'homepage',
 
-     # the default encoding of template files
-     'DEFAULT_TEMPLATE_ENCODING': 'utf-8',
+ # the default encoding of template files
+ 'DEFAULT_TEMPLATE_ENCODING': 'utf-8',
 
-     # these are included in every template by default - if you put your most-used libraries here, you won't have to import them exlicitly in templates
-     'DEFAULT_TEMPLATE_IMPORTS': [
-       'import os, os.path, re, json',
-     ],
+ # these are included in every template by default - if you put your most-used libraries here, you won't have to import them exlicitly in templates
+ 'DEFAULT_TEMPLATE_IMPORTS': [
+   'import os, os.path, re, json',
+ ],
 
-     # see the DMP online tutorial for information about this setting
-     'URL_START_INDEX': 0,
+ # see the DMP online tutorial for information about this setting
+ 'URL_START_INDEX': 0,
 
-     # whether to send the custom DMP signals -- set to False for a slight speed-up in router processing
-     # determines whether DMP will send its custom signals during the process
-     'SIGNALS': True,
+ # whether to send the custom DMP signals -- set to False for a slight speed-up in router processing
+ # determines whether DMP will send its custom signals during the process
+ 'SIGNALS': True,
 
-     # whether to minify using rjsmin, rcssmin during 1) collection of static files, and 2) on the fly as .jsm and .cssm files are rendered
-     # rjsmin and rcssmin are fast enough that doing it on the fly can be done without slowing requests down
-     'MINIFY_JS_CSS': True,
+ # whether to minify using rjsmin, rcssmin during 1) collection of static files, and 2) on the fly as .jsm and .cssm files are rendered
+ # rjsmin and rcssmin are fast enough that doing it on the fly can be done without slowing requests down
+ 'MINIFY_JS_CSS': True,
 
-     # see the DMP online tutorial for information about this setting
-     'TEMPLATES_DIRS': [ 
-       # '/var/somewhere/templates/',
-     ],
- }
+ # see the DMP online tutorial for information about this setting
+ 'TEMPLATES_DIRS': [ 
+   # '/var/somewhere/templates/',
+ ],
+}
 
  ###  End of settings for the Django-Mako-Plus
  ################################################################
