@@ -15,7 +15,14 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+import django_mako_plus.controller.router
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+
+
+   # the django_mako_plus controller handles every request - this line is the glue that connects Mako to Django
+    url(r'^.*$', django_mako_plus.controller.router.route_request ),
 ]
+
+
