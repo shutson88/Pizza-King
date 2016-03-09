@@ -44,7 +44,7 @@
         %if len(products) < 1:
             <h1 id="cartStatus">Your cart is empty!</h1>
         %endif
-        <div id="paymentInfo">
+        <div id="paymentInfo" class="col-md-4">
             <form class="form" method="post" action="/homepage/checkout.thanks">
                 <table class="myTable">
                     <h3>Credit Card Information</h3>
@@ -52,6 +52,11 @@
                 </table>
                 <input id="submitOrder" class="btn btn-warning form-button" type="submit" value="Submit Order">
             </form>
+        </div>
+        <div id="couponDiv" class="col-md-8">
+            <h3>Thanks for your order!</h3>
+            <p>click on the coupon to get 20% off</p>
+            <img id="couponImg" src="/static/homepage/media/20coupon.png" />
         </div>
     </div>
 

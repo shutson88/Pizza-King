@@ -7,6 +7,11 @@ $(function() {
     });//each
     $('#id_amount').val(totalDue.toFixed(2));
 
+    $('#couponImg').on('click', function (){
+        var newTotal = totalDue * .8;
+        $('#id_amount').val(newTotal.toFixed(2));
+    });//click
+
     $('#submitOrder').on('click', function (){
         $('#id_amount').removeAttr("disabled");
         $(location).attr('href','/homepage/checkout.thanks');

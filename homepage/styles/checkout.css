@@ -16,3 +16,8 @@
 .alert {
     display: none;
 }
+
+#cartContainer #couponImg{
+    max-width: 500px;
+    max-height: 500px;
+}

@@ -123,33 +123,3 @@ class CardForm(forms.Form):
     exp_year = forms.IntegerField(required=True, min_value=0, max_value=99, widget=forms.NumberInput(attrs={'class': 'form-control'}))
     cvc = forms.CharField(required=True, widget=forms.TextInput(attrs={'class': 'form-control'}))
     amount = forms.DecimalField(required=True, min_value=0, decimal_places=2, widget=forms.NumberInput(attrs={'class': 'form-control', 'disabled': True}))
-
-
-    # def clean(self):
-    #     api_url = 'http://dithers.cs.byu.edu/iscore/api/v1/charges'
-    #     api_key = '0addecbcfd060af2f9e8a4ee2fc3a5cc'
-    #     now = datetime.now()
-
-        # r = requests.post(api_url, data={
-        #     'apiKey': api_key,
-        #     'currency': 'usd',
-        #     'amount': self.cleaned_data['amount'],
-        #     'type': self.cleaned_data['type'],
-        #     'number': self.cleaned_data['number'],
-        #     'exp_month': self.cleaned_data['exp_month'],
-        #     'exp_year': self.cleaned_data['exp_year'],
-        #     'cvc': self. cleaned_data['cvc'],
-        #     'name': self.cleaned_data['name'],
-        #     'description': 'Payment for' + self.cleaned_data['name'] + ', ' + formats.date_format(now, "SHORT_DATETIME_FORMAT")
-        # })
-
-        # print('>>>>>>>>>',r.text)
-
-        # resp = r.json()
-        # if 'error' in resp:
-        #     print('>>>>>>> ERROR: ', resp['error'])
-        #     return False
-        # else:
-        #     print(resp.keys())
-        #     print(resp['ID'])
-        #     return True
