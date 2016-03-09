@@ -8,6 +8,8 @@ import os
 import json
 import datetime, time
 from xml.dom import minidom
+import sqlite3
+
 
 stores = []
 orders = []
@@ -84,9 +86,28 @@ for filename in os.listdir("PizzaGeneratorSampleData"):
 
 
 
-
-
+conn = sqlite3.connect('../db2.sqlite3')
+c = conn.cursor()
+id = 0
 # print(pizza)
 # print(orders[0].pizzas[0].name)
+# Insert a row of data
+# c.execute("INSERT INTO homepage_pizza VALUES ('1', \'dummy\','',0, '')")
+for o in orders:
+    for p in o.pizzas:
+         try:
+            c.execute("INSERT INTO homepage_pizza VALUES ("+str(id)+", \'"+p.name+"\','','', '')")
+            id += 1
+         except:
+             print (p.name + " Exists")
+        # pizza_table = c.execute('SELECT name FROM homepage_pizza')
+
+
+conn.commit()
+
+# We can also close the connection if we are done with it.
+# Just be sure any changes have been committed or they will be lost.
+conn.close()
+print("done.")
 
 
