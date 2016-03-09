@@ -154,3 +154,9 @@ a#showLoginDialog{
     font-family: Marcellus;
     font-size: 12pt;
 }
+
+#logo{
+    width: 59px;
+    top: -27px;
+    position: relative;
+}

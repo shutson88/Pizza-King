@@ -1,4 +1,4 @@
-min(Customer_id),Last_NM,First_NM,Street_NR,Street_NM,City,State
+id,Last_NM,First_NM,Street_NR,Street_NM,City,State
 67581,,                Aaron            ,16459,Lake,Spring,Field
 67823,,                Aaron            ,22966,Hill,Spring,Field
 137134,,                Aaron            ,24186,Shore,Spring,Field

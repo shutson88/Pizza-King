@@ -51,13 +51,13 @@
 
 .productContainer a img{
     max-width: 250px;
-    max-height: 250px;
+    max-height: 160px;
 }
 
 .productContainer {
     border: 1px solid #ccc;
     text-align: center;
-    width: 45%;
+    width: 31%;
     box-sizing: border-box;
     display: inline-block;
     padding: 5px;
