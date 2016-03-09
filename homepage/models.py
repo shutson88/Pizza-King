@@ -47,6 +47,16 @@ class User(User):
         return '%s %s' % (self.first_name, self.last_name)
 
 
+class OldUser(models.Model):
+    # A registered user the Fish Store. Can have User, Seller, or Admin roles.
+    first_name = models.TextField(max_length=22)
+    last_name = models.TextField(max_length=22)
+    street_number = models.TextField()
+    street_name = models.TextField()
+    city = models.TextField()
+    state = models.TextField()
+
+
 class Store(models.Model):
     # A registered user the Fish Store. Can Seller or Admin roles.
     store_address = models.TextField(max_length=255)
