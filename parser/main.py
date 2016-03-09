@@ -94,12 +94,22 @@ id = 0
 # Insert a row of data
 # c.execute("INSERT INTO homepage_pizza VALUES ('1', \'dummy\','',0, '')")
 for o in orders:
-    for p in o.pizzas:
-         try:
-            c.execute("INSERT INTO homepage_pizza VALUES ("+str(id)+", \'"+p.name+"\','','', '')")
-            id += 1
-         except:
-             print (p.name + " Exists")
+
+     # try:
+    address = str(o.customer.address).replace(',', '').split(' ')
+    print("Storing " + str(address))
+    address = filter(lambda a: a != '', address)
+    c.execute("INSERT INTO Pizza_King_Customer VALUES ("+str(id)+", \'"+o.customer.surname+"\',\'"+o.customer.name+"\',\'"+address[0]+"\', \'"+address[1]+"\', \'"+address[2]+"\', \'"+address[3]+"\')")
+    id += 1
+     # except:
+     #     print (p.name + " Exists")
+# for o in orders:
+#     for p in o.pizzas:
+#          try:
+#             c.execute("INSERT INTO Pizza_King_Customer VALUES ("+str(id)+", \'"+p.name+"\','','', '')")
+#             id += 1
+#          except:
+#              print (p.name + " Exists")
         # pizza_table = c.execute('SELECT name FROM homepage_pizza')
 
 
