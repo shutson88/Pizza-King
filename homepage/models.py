@@ -47,14 +47,14 @@ class User(User):
         return '%s %s' % (self.first_name, self.last_name)
 
 
-class OldUser(models.Model):
+class PastCustomer(models.Model):
     # A registered user the Fish Store. Can have User, Seller, or Admin roles.
-    first_name = models.TextField(max_length=22)
-    last_name = models.TextField(max_length=22)
-    street_number = models.TextField()
-    street_name = models.TextField()
-    city = models.TextField()
-    state = models.TextField()
+    Last_NM = models.TextField(max_length=122)
+    First_NM = models.TextField(max_length=122)
+    Street_NR = models.TextField()
+    Street_NM = models.TextField()
+    City = models.TextField()
+    State = models.TextField()
 
 
 class Store(models.Model):
