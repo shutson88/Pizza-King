@@ -1,0 +1,5536 @@
+Bad JuJu's Pizzas
+
+Good
+CHEESE
+EXTRA_CHEESE
+
+Bad
+CHEESE
+PEPPERONI
+ONIONS
+GREEN_PEPPERS
+SPINACH
+SARDINES
+JALAPENOS
+
+Ugly
+CHEESE
+MUSHROOMS
+ONIONS
+EXTRA_CHEESE
+BLACK_OLIVES
+GREEN_PEPPERS
+PINEAPPLE
+SPINACH
+JALAPENOS
+
+3231797166716085828	Anna	1/1/06	Alan	11002 West Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085829	Douglas	1/1/06	Stanley	1390 Maple Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716085830	Sheryl	1/1/06	Stephen	22102 Lincoln Spring Field, New Cicily
+Ugly
+
+3231797166716085831	Conner	1/1/06	Alan	26765 Quail Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716085832	Terri	1/1/06	Stephen	5903 Cypress Spring Field, New Cicily
+Good
+
+3231797166716085833	Roger	1/1/06	Alan	15228 Wood Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Bad
+
+3231797166716085834	Jared	1/1/06	Stanley	47 Meadow Spring Field, New Cicily
+Bad
+
+3231797166716085835	Maria	1/1/06	Stephen	1033 Church Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716085836	Karina	1/1/06	Spencer	6441 N 400 Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716085837	Elias	1/1/06	Stanley	23662 Walnut Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716085838	Edwin	1/1/06	Dorothy	12751 Sixth Spring Field, New Cicily
+Ugly
+
+3231797166716085839	Cristian	1/1/06	Stephen	1749 Mountain View Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085840	Jacob	1/1/06	Spencer	26277 Meadow Spring Field, New Cicily
+Good
+Bad
+
+3231797166716085841	Melissa	1/1/06	Spencer	24157 West Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085842	Jeffery	1/1/06	Stanley	16894 Maple Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716085843	Bob	1/1/06	Chelsea	15156 Broadway Spring Field, New Cicily
+Good
+Good
+
+3231797166716085844	George	1/1/06	Alan	15995 Dogwood Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716085845	Bruce	1/1/06	Chelsea	9661 Malulani Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716085846	Janice	1/1/06	Dorothy	29458 Mountain View Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716085847	Kathy	1/1/06	Alan	3738 Park Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716085848	Amy	1/1/06	Spencer	16170 Hill Spring Field, New Cicily
+Good
+
+3231797166716085849	Jeremy	1/1/06	Evelyn	10506 S 400 Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716085850	Mariah	1/1/06	Dorothy	20177 Dogwood Spring Field, New Cicily
+Bad
+
+3231797166716085851	Kevin	1/1/06	Stanley	19373 Broadway Spring Field, New Cicily
+Good
+Bad
+
+3231797166716085852	Zachary	1/1/06	Tracey	2746 Aloha Spring Field, New Cicily
+Good
+
+3231797166716085853	John	1/1/06	Dorothy	3781 S 400 Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716085854	Sarah	1/1/06	Spencer	12354 Highland Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716085855	Charles	1/1/06	Dorothy	5799 Birch Spring Field, New Cicily
+Bad
+
+3231797166716085856	Milton	1/1/06	Spencer	22034 Laurel Spring Field, New Cicily
+Good
+Ugly
+Good
+Ugly
+
+3231797166716085857	Joel	1/2/06	Alan	12961 Lake Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716085858	Diane	1/2/06	Tracey	488 Third Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716085859	Melinda	1/2/06	Tracey	19161 Pecan Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085860	Timothy	1/2/06	Spencer	143 Pinon Spring Field, New Cicily
+Good
+
+3231797166716085861	Gabriel	1/2/06	Tracey	25693 Airport Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716085862	Edward	1/2/06	Stephen	19449 Lee Spring Field, New Cicily
+Good
+Good
+
+3231797166716085863	Gabriella	1/2/06	Evelyn	16838 Malulani Spring Field, New Cicily
+Bad
+
+3231797166716085864	Lillian	1/2/06	Spencer	7533 Second Spring Field, New Cicily
+Good
+
+3231797166716085865	Sean	1/2/06	Tracey	4250 Smith Spring Field, New Cicily
+Bad
+
+3231797166716085866	Joy	1/2/06	Evelyn	9094 Oak Spring Field, New Cicily
+Bad
+
+3231797166716085867	Nancy	1/2/06	Stanley	18528 Wood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716085868	Thomas	1/2/06	Alan	6748 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716085869	Martin	1/2/06	Stanley	16770 Jackson Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716085870	Tammy	1/2/06	Spencer	9903 Lake Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716085871	Oscar	1/2/06	Alan	4548 Lake Spring Field, New Cicily
+Ugly
+
+3231797166716085872	Tami	1/3/06	Evelyn	3993 Aspen Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716085873	Lester	1/3/06	Devon	18366 Lehua Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716085874	Jerry	1/3/06	Chelsea	19837 S 400 Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716085875	Rose	1/3/06	Devon	18500 Highland Spring Field, New Cicily
+Ugly
+
+3231797166716085876	Ronald	1/3/06	Evelyn	17445 Kahili Spring Field, New Cicily
+Bad
+Good
+
+3231797166716085877	Jacqueline	1/3/06	Chelsea	19244 S 400 Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716085878	Rebekah	1/3/06	Stephen	10682 Second Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716085879	Travis	1/3/06	Stanley	21572 Holly Spring Field, New Cicily
+Good
+
+3231797166716085880	John	1/3/06	Devon	18174 Lincoln Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716085881	Allen	1/3/06	Devon	22281 Kahili Spring Field, New Cicily
+Good
+
+3231797166716085882	Robert	1/3/06	Alan	7553 Thirteenth Spring Field, New Cicily
+Good
+
+3231797166716085883	Erin	1/3/06	Shannon	24359 Jackson Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716085884	Steven	1/3/06	Stephen	11868 Maple Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085885	Rita	1/3/06	Shannon	22113 Tenth Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716085886	Natalie	1/3/06	Devon	7480 Smith Spring Field, New Cicily
+Good
+
+3231797166716085887	Julia	1/3/06	Stanley	10098 Pine Spring Field, New Cicily
+Bad
+
+3231797166716085888	Alvin	1/3/06	Stanley	8304 Smith Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716085889	Lawrence	1/3/06	Tracey	3163 Thirteenth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085890	Justin	1/3/06	Chelsea	4851 County Line Spring Field, New Cicily
+Good
+Good
+
+3231797166716085891	Tonya	1/3/06	Tracey	23929 Hampton Spring Field, New Cicily
+Good
+Bad
+
+3231797166716085892	Deborah	1/3/06	Chelsea	8480 Fourth Spring Field, New Cicily
+Good
+Good
+
+3231797166716085893	Carly	1/3/06	Shannon	8230 Dogwood Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085894	Randall	1/3/06	Tracey	1313 Fourth Spring Field, New Cicily
+Good
+
+3231797166716085895	Erin	1/3/06	Devon	9838 Church Spring Field, New Cicily
+Ugly
+
+3231797166716085896	Marissa	1/3/06	Tracey	29497 North Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716085897	Jimmie	1/3/06	Shannon	18181 Lakeview Spring Field, New Cicily
+Good
+
+3231797166716085898	Lynn	1/3/06	Chelsea	23360 Ninth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085899	Gary	1/3/06	Stephen	23253 Pioneer Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716085900	Ralph	1/3/06	Devon	23426 Hillside Spring Field, New Cicily
+Good
+Good
+
+3231797166716085901	Deborah	1/3/06	Shannon	13233 Main Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716085902	Krista	1/3/06	Stephen	13775 Lincoln Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716085903	Lois	1/3/06	Tracey	6401 Hemlock Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716085904	Dana	1/3/06	Devon	23473 Church Spring Field, New Cicily
+Ugly
+Bad
+Good
+Bad
+
+3231797166716085905	Samantha	1/4/06	Devon	6928 Cherry Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716085906	Kathryn	1/4/06	Stanley	4358 Wood Spring Field, New Cicily
+Bad
+
+3231797166716085907	Leah	1/4/06	Shannon	2157 North Spring Field, New Cicily
+Good
+Good
+Good
+Bad
+
+3231797166716085908	Sean	1/4/06	Shannon	15466 North Spring Field, New Cicily
+Good
+
+3231797166716085909	Sebastian	1/4/06	Stanley	29238 Pioneer Spring Field, New Cicily
+Bad
+Good
+
+3231797166716085910	Margaret	1/4/06	Evelyn	8541 Narragansett Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716085911	Jada	1/4/06	Evelyn	20964 Broadway Spring Field, New Cicily
+Bad
+Good
+
+3231797166716085912	Patrick	1/4/06	Stanley	17112 Laurel Spring Field, New Cicily
+Good
+
+3231797166716085913	Gregory	1/4/06	Devon	1 Cottonwood Spring Field, New Cicily
+Good
+Bad
+Ugly
+Bad
+
+3231797166716085914	Cassandra	1/4/06	Shannon	11874 County Line Spring Field, New Cicily
+Bad
+
+3231797166716085915	Nancy	1/4/06	Tracey	20383 Smith Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085916	Damian	1/4/06	Shannon	14453 Highland Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716085917	Elijah	1/4/06	Stephen	4092 Eleventh Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716085918	Sean	1/4/06	Stanley	17336 Bay Spring Field, New Cicily
+Good
+Good
+
+3231797166716085919	Linda	1/4/06	Stanley	13952 Spruce Spring Field, New Cicily
+Good
+
+3231797166716085920	Donald	1/4/06	Stanley	27489 Orchard Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+Good
+
+3231797166716085921	Aaron	1/4/06	Chelsea	2216 Maple Spring Field, New Cicily
+Good
+
+3231797166716085922	Philip	1/4/06	Chelsea	8538 Palo Verde Spring Field, New Cicily
+Ugly
+
+3231797166716085923	Andre	1/4/06	Stephen	16162 Center Spring Field, New Cicily
+Bad
+Good
+
+3231797166716085924	Sara	1/4/06	Devon	3374 Main Spring Field, New Cicily
+Ugly
+
+3231797166716085925	Jade	1/4/06	Chelsea	17004 Lakeview Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716085926	Bobbie	1/4/06	Stephen	9114 Johnson Spring Field, New Cicily
+Ugly
+Bad
+Good
+Good
+
+3231797166716085927	Danielle	1/4/06	Devon	16813 Third Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716085928	Jessie	1/4/06	Evelyn	6526 Pecan Spring Field, New Cicily
+Ugly
+
+3231797166716085929	Zachary	1/4/06	Stanley	2746 Aloha Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716085930	Rodney	1/4/06	Alan	26270 Elm Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085931	Wanda	1/4/06	Devon	4796 Seventh Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716085932	Daisy	1/4/06	Evelyn	6827 Delaware Spring Field, New Cicily
+Ugly
+
+3231797166716085933	Mathew	1/4/06	Alan	755 Pioneer Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716085934	Raven	1/4/06	Chelsea	15823 Hampton Spring Field, New Cicily
+Bad
+Good
+
+3231797166716085935	Brian	1/4/06	Chelsea	11615 Jackson Spring Field, New Cicily
+Good
+Bad
+Bad
+Good
+
+3231797166716085936	Lynn	1/4/06	Devon	23360 Ninth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085937	Derek	1/4/06	Chelsea	1336 Evergreen Spring Field, New Cicily
+Bad
+Good
+
+3231797166716085938	Kathryn	1/4/06	Alan	3957 Navajo Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085939	Stuart	1/4/06	Tracey	6899 Pecan Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085940	Janis	1/4/06	Chelsea	22113 S 400 Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716085941	Ana	1/4/06	Alan	13887 Aspen Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085942	Penny	1/4/06	Evelyn	8135 Narragansett Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716085943	Sandra	1/5/06	Jessica	23746 Willow Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716085944	Vanessa	1/5/06	Stanley	7631 Pecan Spring Field, New Cicily
+Bad
+
+3231797166716085945	Robin	1/5/06	Stanley	20658 Hillside Spring Field, New Cicily
+Ugly
+Good
+Good
+Bad
+
+3231797166716085946	Albert	1/5/06	Stanley	18179 Willow Spring Field, New Cicily
+Good
+Good
+
+3231797166716085947	Virginia	1/5/06	Jessica	20685 S 400 Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716085948	Kathleen	1/5/06	Shannon	10557 Spruce Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716085949	Christopher	1/5/06	Alan	7424 Apache Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085950	Aimee	1/5/06	Devon	13091 Washington Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716085951	Morgan	1/5/06	Evelyn	5787 Hickory Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716085952	Ella	1/5/06	Jessica	11688 Malulani Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716085953	Jerry	1/5/06	Stanley	4376 Smith Spring Field, New Cicily
+Bad
+
+3231797166716085954	Monique	1/5/06	Devon	13001 Ninth Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085955	Lillian	1/5/06	Jessica	24566 Navajo Spring Field, New Cicily
+Good
+
+3231797166716085956	Savannah	1/5/06	Evelyn	5984 Kukui Spring Field, New Cicily
+Bad
+
+3231797166716085957	Katherine	1/5/06	Tracey	28970 West Spring Field, New Cicily
+Good
+
+3231797166716085958	Ivan	1/5/06	Evelyn	27535 Main Spring Field, New Cicily
+Ugly
+
+3231797166716085959	Rebecca	1/5/06	Tracey	17731 Eighth Spring Field, New Cicily
+Ugly
+
+3231797166716085960	Danielle	1/5/06	Chelsea	28119 Maple Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716085961	Randall	1/5/06	Tracey	21374 West Spring Field, New Cicily
+Good
+
+3231797166716085962	Joel	1/5/06	Devon	17156 Magnolia Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085963	Wanda	1/5/06	Stanley	7532 County Line Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716085964	Hunter	1/5/06	Chelsea	9722 Wood Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085965	Mario	1/5/06	Alan	5084 Church Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716085966	Mitchell	1/5/06	Shannon	2758 Willow Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716085967	Michele	1/5/06	Shannon	24753 Birch Spring Field, New Cicily
+Ugly
+
+3231797166716085968	Dennis	1/5/06	Stanley	21586 Mesquite Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716085969	Lilly	1/5/06	Devon	23611 Elm Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085970	Gabriela	1/5/06	Shannon	19735 West Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716085971	Lori	1/5/06	Stanley	26082 County Line Spring Field, New Cicily
+Good
+
+3231797166716085972	Bobby	1/5/06	Shannon	28540 Meadow Spring Field, New Cicily
+Good
+
+3231797166716085973	Emily	1/5/06	Chelsea	4376 Walnut Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716085974	Owen	1/5/06	Devon	21148 Pecan Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716085975	Hope	1/5/06	Evelyn	24020 Lehua Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716085976	Patricia	1/6/06	Shannon	21263 S 400 Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716085977	Joseph	1/6/06	Shannon	5110 Aspen Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716085978	Anthony	1/6/06	Evelyn	26861 Willow Spring Field, New Cicily
+Ugly
+
+3231797166716085979	Brandon	1/6/06	Tracey	23550 Broadway Spring Field, New Cicily
+Good
+
+3231797166716085980	Emmanuel	1/6/06	Chelsea	21905 Airport Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716085981	Kiara	1/6/06	Alan	10540 Aloha Spring Field, New Cicily
+Good
+
+3231797166716085982	Sofia	1/6/06	Shannon	9394 Johnson Spring Field, New Cicily
+Good
+
+3231797166716085983	Glenn	1/6/06	Jessica	29609 Fourth Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716085984	Rachael	1/6/06	Tracey	17774 Sunset Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716085985	Clifford	1/6/06	Chelsea	18396 Walnut Spring Field, New Cicily
+Good
+Bad
+
+3231797166716085986	Leonard	1/6/06	Alan	11220 Smith Spring Field, New Cicily
+Ugly
+
+3231797166716085987	Ashlyn	1/6/06	Virginia	5140 Laurel Spring Field, New Cicily
+Good
+Bad
+
+3231797166716085988	Patrick	1/6/06	Evelyn	17112 Laurel Spring Field, New Cicily
+Good
+
+3231797166716085989	Wayne	1/6/06	Evelyn	1674 Pecan Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716085990	Jill	1/6/06	Shannon	28605 Lakeview Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716085991	Javier	1/6/06	Shannon	11489 Eleventh Spring Field, New Cicily
+Bad
+
+3231797166716085992	Kristina	1/6/06	Shannon	18601 Ninth Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716085993	Dan	1/6/06	Jessica	10622 Twelfth Spring Field, New Cicily
+Bad
+
+3231797166716085994	Yvette	1/6/06	Virginia	11682 Eleventh Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716085995	Max	1/6/06	Jessica	20705 West Spring Field, New Cicily
+Bad
+
+3231797166716085996	Stacey	1/6/06	Evelyn	21702 Park Spring Field, New Cicily
+Good
+
+3231797166716085997	Claudia	1/6/06	Evelyn	15926 Lakeview Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716085998	Dawn	1/6/06	Tracey	2663 Third Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716085999	Sandra	1/6/06	Jessica	5645 Fifth Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086000	Erin	1/6/06	Chelsea	28668 Kahili Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086001	Frank	1/6/06	Virginia	7454 Navajo Spring Field, New Cicily
+Ugly
+
+3231797166716086002	Kevin	1/6/06	Jessica	5311 West Spring Field, New Cicily
+Bad
+
+3231797166716086003	Drew	1/6/06	Alan	12413 Narragansett Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086004	Tony	1/6/06	Jessica	6387 Lake Spring Field, New Cicily
+Good
+
+3231797166716086005	Matthew	1/6/06	Devon	27065 Aloha Spring Field, New Cicily
+Good
+
+3231797166716086006	Eddie	1/6/06	Evelyn	3622 Church Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086007	Devon	1/7/06	Tracey	5494 Columbine Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086008	Joseph	1/7/06	Devon	26052 Juniper Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086009	Ann	1/7/06	Jessica	27817 Meadow Spring Field, New Cicily
+Bad
+
+3231797166716086010	Bryan	1/7/06	Jessica	5510 County Line Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086011	Steven	1/7/06	Chelsea	5169 Pine Spring Field, New Cicily
+Good
+
+3231797166716086012	Diana	1/7/06	Evelyn	19792 Ridge Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086013	Ronald	1/7/06	Corey	17445 Kahili Spring Field, New Cicily
+Bad
+
+3231797166716086014	Joel	1/7/06	Devon	12961 Lake Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086015	Marilyn	1/7/06	Corey	22240 Eighth Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086016	Brittany	1/7/06	Alan	19900 Pleasant Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086017	Roger	1/7/06	Devon	15228 Wood Spring Field, New Cicily
+Good
+Good
+
+3231797166716086018	Michele	1/7/06	Alan	7041 Columbine Spring Field, New Cicily
+Good
+
+3231797166716086019	Andrew	1/7/06	Devon	3186 Palo Verde Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086020	Brendan	1/7/06	Corey	15277 Shore Spring Field, New Cicily
+Ugly
+Good
+Ugly
+Bad
+
+3231797166716086021	Alice	1/7/06	Evelyn	4926 Aloha Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086022	Douglas	1/7/06	Devon	23619 Kukui Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086023	Omar	1/7/06	Tracey	23931 S 100 Spring Field, New Cicily
+Bad
+
+3231797166716086024	Alicia	1/7/06	Evelyn	1885 Sixth Spring Field, New Cicily
+Bad
+
+3231797166716086025	Veronica	1/7/06	Alan	1065 Dogwood Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+Good
+
+3231797166716086026	Sean	1/7/06	Evelyn	9872 Magnolia Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086027	Yvonne	1/7/06	Alan	14385 Lehua Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086028	Jessica	1/7/06	Alan	14062 Sunset Spring Field, New Cicily
+Bad
+
+3231797166716086029	Cristina	1/7/06	Virginia	7001 Kahili Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086030	Marsha	1/7/06	Evelyn	430 Highland Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086031	Beverly	1/7/06	Devon	4043 Williams Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086032	Melissa	1/7/06	Devon	18780 Malulani Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086033	Randy	1/7/06	Corey	29455 Pine Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086034	Alice	1/7/06	Corey	14175 Ridge Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086035	Chris	1/7/06	Evelyn	25143 Third Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086036	Karl	1/7/06	Tracey	13803 Main Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Ugly
+
+3231797166716086037	Casey	1/7/06	Devon	28834 Center Spring Field, New Cicily
+Ugly
+
+3231797166716086038	Allen	1/7/06	Alan	26778 Williams Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086039	Kathy	1/7/06	Tracey	6639 Navajo Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086040	Robin	1/7/06	Jessica	16160 Eighth Spring Field, New Cicily
+Ugly
+
+3231797166716086041	Gregory	1/7/06	Evelyn	23925 Cottonwood Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086042	Gary	1/7/06	Devon	18622 Meadow Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086043	Sharon	1/7/06	Devon	20453 Pleasant Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086044	Grant	1/7/06	Evelyn	7388 Hillside Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086045	Phillip	1/8/06	Tracey	26405 Smith Spring Field, New Cicily
+Bad
+Ugly
+Good
+Good
+
+3231797166716086046	Kaleb	1/8/06	Jessica	29276 Cottonwood Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086047	Stephanie	1/8/06	Tracey	17573 S 100 Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086048	Kiara	1/8/06	Evelyn	16922 Eleventh Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086049	Larry	1/8/06	Devon	6700 Evergreen Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086050	Marilyn	1/8/06	Chelsea	20574 Pine Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086051	Diana	1/8/06	Virginia	23165 Quail Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086052	Maria	1/8/06	Chelsea	14715 Quail Spring Field, New Cicily
+Bad
+
+3231797166716086053	Travis	1/8/06	Jessica	21572 Holly Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086054	Sergio	1/8/06	Alan	2437 Mountain View Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086055	Dustin	1/8/06	Jessica	17584 Laurel Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086056	Charles	1/8/06	Alan	10969 S 400 Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086057	Sydney	1/8/06	Devon	15373 Fifth Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086058	Ana	1/8/06	Devon	328 Seventh Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086059	Delaney	1/8/06	Jessica	11232 Sixth Spring Field, New Cicily
+Good
+
+3231797166716086060	Courtney	1/8/06	Jessica	28188 Lehua Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086061	Cassidy	1/8/06	Alan	18238 Spruce Spring Field, New Cicily
+Bad
+
+3231797166716086062	Geoffrey	1/8/06	Corey	17949 Hickory Spring Field, New Cicily
+Good
+Good
+
+3231797166716086063	Rachel	1/8/06	Devon	21818 Seventh Spring Field, New Cicily
+Good
+
+3231797166716086064	Gene	1/8/06	Alan	2355 Main Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086065	Penny	1/8/06	Devon	21119 Magnolia Spring Field, New Cicily
+Ugly
+
+3231797166716086066	Wanda	1/8/06	Devon	15862 Orchard Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086067	Jamie	1/8/06	Devon	24634 Shore Spring Field, New Cicily
+Ugly
+Ugly
+Good
+Good
+
+3231797166716086068	Oscar	1/8/06	Tracey	13611 Johnson Spring Field, New Cicily
+Ugly
+
+3231797166716086069	Jillian	1/8/06	Alan	3302 Fifth Spring Field, New Cicily
+Bad
+
+3231797166716086070	Danielle	1/8/06	Jessica	28119 Maple Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Good
+
+3231797166716086071	Casey	1/8/06	Alan	28834 Center Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716086072	Alice	1/8/06	Tracey	29069 Sycamore Spring Field, New Cicily
+Ugly
+Good
+Good
+Bad
+
+3231797166716086073	Stanley	1/8/06	Virginia	29648 Laurel Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086074	Erin	1/8/06	Alan	9838 Church Spring Field, New Cicily
+Good
+
+3231797166716086075	Norman	1/8/06	Evelyn	7149 S 400 Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086076	Steven	1/8/06	Jessica	10028 First Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086077	Destiny	1/8/06	Evelyn	11077 Kukui Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Good
+
+3231797166716086078	Theresa	1/8/06	Jessica	21084 Pecan Spring Field, New Cicily
+Good
+
+3231797166716086079	Jimmy	1/8/06	Virginia	17335 Jackson Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086080	Brian	1/8/06	Evelyn	15445 Lake Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716086081	Oliver	1/8/06	Chelsea	12359 River Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086082	Mercedes	1/8/06	Alan	24677 Shore Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086083	Maurice	1/8/06	Virginia	1341 Wilson Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Ugly
+
+3231797166716086084	Roger	1/8/06	Chelsea	6952 Dogwood Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086085	Douglas	1/8/06	Jessica	25674 Spruce Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086086	Isaiah	1/9/06	Evelyn	21100 Fifth Spring Field, New Cicily
+Bad
+
+3231797166716086087	Darryl	1/9/06	Evelyn	4630 Pleasant Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086088	Katelyn	1/9/06	Corey	8521 County Line Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086089	Tim	1/9/06	Chelsea	29604 Pecan Spring Field, New Cicily
+Good
+Good
+
+3231797166716086090	Jason	1/9/06	Devon	13153 Juniper Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086091	Douglas	1/9/06	Diego	10655 Twelfth Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086092	Teresa	1/9/06	Tracey	28328 Sycamore Spring Field, New Cicily
+Ugly
+
+3231797166716086093	Cory	1/9/06	Evelyn	24456 Lakeview Spring Field, New Cicily
+Bad
+
+3231797166716086094	Arthur	1/9/06	Tracey	2132 Jackson Spring Field, New Cicily
+Ugly
+
+3231797166716086095	Lynn	1/9/06	Evelyn	4422 Lake Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086096	Wanda	1/9/06	Tracey	17671 Juniper Spring Field, New Cicily
+Good
+Good
+
+3231797166716086097	Alice	1/9/06	Jessica	1304 Cottonwood Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086098	Sara	1/9/06	Jessica	3775 Ridge Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086099	Julie	1/9/06	Tracey	15267 Dogwood Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086100	Martin	1/9/06	Corey	11635 Eighth Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086101	Lauren	1/9/06	Alan	25694 Fourth Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086102	Billy	1/9/06	Diego	1148 Smith Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086103	Billy	1/9/06	Alan	29044 Smith Spring Field, New Cicily
+Good
+
+3231797166716086104	Marcus	1/9/06	Tracey	23050 Mountain View Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086105	Ryan	1/9/06	Devon	9780 Malulani Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086106	Leo	1/9/06	Evelyn	15070 Third Spring Field, New Cicily
+Ugly
+
+3231797166716086107	Riley	1/9/06	Tracey	14192 Quail Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086108	Jim	1/9/06	Alan	5419 Walnut Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086109	Ella	1/9/06	Evelyn	820 Hillside Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086110	Ronald	1/9/06	Jessica	29679 Magnolia Spring Field, New Cicily
+Bad
+
+3231797166716086111	Jeff	1/9/06	Tracey	25913 Dogwood Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086112	Norman	1/9/06	Tracey	13231 Cherry Spring Field, New Cicily
+Good
+Good
+
+3231797166716086113	Shirley	1/9/06	Corey	29910 Cedar Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086114	Angelica	1/9/06	Devon	23220 Lee Spring Field, New Cicily
+Good
+
+3231797166716086115	Cameron	1/9/06	Corey	17339 Pecan Spring Field, New Cicily
+Ugly
+Good
+Ugly
+Good
+
+3231797166716086116	Wanda	1/9/06	Chelsea	23019 Lee Spring Field, New Cicily
+Good
+Good
+
+3231797166716086117	Allison	1/9/06	Evelyn	10193 Orchard Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086118	Alejandro	1/9/06	Jessica	25043 Magnolia Spring Field, New Cicily
+Good
+Good
+
+3231797166716086119	Hector	1/9/06	Devon	23392 Wood Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086120	Hayden	1/9/06	Alan	19399 Pioneer Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086121	Johnny	1/9/06	Diego	26496 Pinon Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086122	Alana	1/9/06	Devon	8326 Hillside Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086123	Christopher	1/9/06	Alan	1439 Pleasant Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086124	Kathy	1/9/06	Chelsea	6639 Navajo Spring Field, New Cicily
+Good
+
+3231797166716086125	Martin	1/9/06	Devon	7355 Holly Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086126	Jaclyn	1/9/06	Diego	12273 Park Spring Field, New Cicily
+Ugly
+
+3231797166716086127	Judy	1/9/06	Jessica	11455 Washington Spring Field, New Cicily
+Ugly
+
+3231797166716086128	Allison	1/9/06	Diego	6596 First Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086129	Karen	1/9/06	Jessica	4262 Third Spring Field, New Cicily
+Bad
+
+3231797166716086130	Curtis	1/9/06	Evelyn	27621 Oak Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086131	Ivan	1/9/06	Devon	1646 Cherry Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086132	Raymond	1/10/06	Evelyn	27211 Second Spring Field, New Cicily
+Ugly
+
+3231797166716086133	Joel	1/10/06	Devon	24167 Hill Spring Field, New Cicily
+Good
+Good
+
+3231797166716086134	Janice	1/10/06	Evelyn	18832 Lehua Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086135	Emily	1/10/06	Diego	17135 Narragansett Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086136	Alyssa	1/10/06	Diego	21544 Second Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086137	Albert	1/10/06	Alan	13237 Lakeview Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086138	Jenna	1/10/06	Evelyn	24841 Twelfth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086139	Tracey	1/10/06	Alan	19231 S 400 Spring Field, New Cicily
+Good
+Good
+
+3231797166716086140	Deborah	1/10/06	Tracey	22086 Sycamore Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086141	Catherine	1/10/06	Tracey	12845 First Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086142	Judith	1/10/06	Diego	5009 Orchard Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086143	Gloria	1/10/06	Alan	23250 Dogwood Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086144	Andrew	1/10/06	Corey	21478 Williams Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086145	Ian	1/10/06	Diego	11473 Magnolia Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086146	Alex	1/10/06	Corey	5780 Twelfth Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086147	Leslie	1/10/06	William	26534 Shore Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086148	Tommy	1/10/06	Tracey	24825 North Spring Field, New Cicily
+Bad
+
+3231797166716086149	Kristen	1/10/06	Devon	21063 Jackson Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086150	Allen	1/10/06	Evelyn	7555 Johnson Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086151	Tonya	1/10/06	Jessica	17185 Kansas Spring Field, New Cicily
+Good
+Bad
+Ugly
+Ugly
+
+3231797166716086152	Manuel	1/10/06	Alan	21598 Seventh Spring Field, New Cicily
+Good
+
+3231797166716086153	Jimmy	1/10/06	Devon	2212 Pine Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086154	Morris	1/10/06	Diego	20382 Walnut Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086155	Lewis	1/10/06	William	4996 Thirteenth Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086156	Colin	1/10/06	Evelyn	806 Fifth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086157	Wanda	1/10/06	Corey	4796 Seventh Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086158	Ryan	1/10/06	Jessica	22900 Laurel Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086159	Gina	1/10/06	William	25612 Shore Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086160	Daniel	1/10/06	William	7667 Shore Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086161	Anne	1/10/06	Alan	21078 Sunset Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086162	Bobby	1/10/06	Alan	28540 Meadow Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086163	Owen	1/10/06	William	21148 Pecan Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086164	Levi	1/11/06	Abigail	5848 Cottonwood Spring Field, New Cicily
+Bad
+Ugly
+Good
+Ugly
+
+3231797166716086165	Sara	1/11/06	Abigail	26918 Elm Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086166	Darlene	1/11/06	Diego	6752 Cedar Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086167	Jane	1/11/06	Diego	28370 Apache Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086168	Kenneth	1/11/06	Abigail	1014 Willow Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086169	Willie	1/11/06	Tracey	15585 Second Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086170	Linda	1/11/06	Tracey	11767 Second Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086171	Anna	1/11/06	Jessica	16392 Malulani Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086172	Kelly	1/11/06	William	18285 Aloha Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086173	Howard	1/11/06	Alan	23604 Cherry Spring Field, New Cicily
+Ugly
+
+3231797166716086174	Wyatt	1/11/06	William	20791 Aloha Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086175	Erica	1/11/06	Abigail	1883 Laurel Spring Field, New Cicily
+Ugly
+
+3231797166716086176	Tommy	1/11/06	Evelyn	2582 Bay Spring Field, New Cicily
+Ugly
+
+3231797166716086177	Kevin	1/11/06	Devon	1336 Pine Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086178	Naomi	1/11/06	Jessica	8874 Second Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086179	Edward	1/11/06	Evelyn	29782 S 400 Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086180	Raymond	1/11/06	William	2152 Canyon Spring Field, New Cicily
+Good
+Good
+
+3231797166716086181	Monica	1/11/06	Jessica	26783 Second Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086182	Cole	1/11/06	William	11875 Kukui Spring Field, New Cicily
+Ugly
+
+3231797166716086183	Ashlee	1/11/06	Jessica	20209 River Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086184	Troy	1/11/06	Abigail	7618 Eighth Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086185	Steve	1/11/06	Diego	5827 Bay Spring Field, New Cicily
+Bad
+
+3231797166716086186	Glenn	1/11/06	Abigail	2050 Ridge Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Ugly
+
+3231797166716086187	Melissa	1/11/06	Devon	10331 Hickory Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086188	Marc	1/11/06	Tracey	26797 Delaware Spring Field, New Cicily
+Bad
+
+3231797166716086189	Dominic	1/11/06	Abigail	17517 Wood Spring Field, New Cicily
+Ugly
+
+3231797166716086190	Martin	1/11/06	Jessica	4143 Elm Spring Field, New Cicily
+Ugly
+
+3231797166716086191	Sara	1/11/06	William	3374 Main Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086192	Patrick	1/11/06	Tracey	10501 Mountain View Spring Field, New Cicily
+Good
+
+3231797166716086193	John	1/11/06	Jessica	22572 Church Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086194	Veronica	1/11/06	Jessica	15532 Apache Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086195	Clifford	1/11/06	William	2665 Pleasant Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086196	Carla	1/11/06	Devon	15515 Wood Spring Field, New Cicily
+Good
+Ugly
+Bad
+Good
+
+3231797166716086197	Ashton	1/11/06	Diego	15603 Shore Spring Field, New Cicily
+Ugly
+
+3231797166716086198	Max	1/11/06	Abigail	11789 Lehua Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+Ugly
+
+3231797166716086199	Gloria	1/11/06	William	23724 Lincoln Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086200	Sally	1/11/06	William	22706 Fourth Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086201	Victor	1/11/06	Abigail	22601 Lake Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086202	Andrea	1/11/06	Evelyn	15069 Delaware Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086203	Rodney	1/12/06	Tracey	27799 Ninth Spring Field, New Cicily
+Good
+
+3231797166716086204	Lynn	1/12/06	Devon	24570 Holly Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086205	Mindy	1/12/06	Alan	3986 North Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086206	Roger	1/12/06	Devon	19364 Wood Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716086207	Dorothy	1/12/06	Alan	16236 Kahili Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086208	Karen	1/12/06	Jessica	19423 Hickory Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086209	Melissa	1/12/06	Abigail	2615 Cedar Spring Field, New Cicily
+Bad
+
+3231797166716086210	Bobby	1/12/06	Devon	10129 Second Spring Field, New Cicily
+Ugly
+
+3231797166716086211	Cassandra	1/12/06	Diego	25843 S 400 Spring Field, New Cicily
+Bad
+
+3231797166716086212	Regina	1/12/06	Jessica	28938 Smith Spring Field, New Cicily
+Ugly
+
+3231797166716086213	Kimberly	1/12/06	Alan	13462 Kahili Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086214	Erica	1/12/06	Diego	14149 Magnolia Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086215	Jay	1/12/06	Devon	15909 Columbine Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086216	Samuel	1/12/06	Tracey	8142 Seventh Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086217	Adam	1/12/06	Diego	22214 Broadway Spring Field, New Cicily
+Good
+Good
+
+3231797166716086218	Lee	1/12/06	William	24917 Center Spring Field, New Cicily
+Bad
+
+3231797166716086219	Mark	1/12/06	William	25557 Willow Spring Field, New Cicily
+Ugly
+
+3231797166716086220	Jeanette	1/12/06	Abigail	5147 Wood Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086221	Joan	1/12/06	Abigail	25374 Walnut Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086222	Ronald	1/12/06	Diego	22098 Lehua Spring Field, New Cicily
+Bad
+
+3231797166716086223	Jeremy	1/12/06	Jessica	12754 Smith Spring Field, New Cicily
+Ugly
+
+3231797166716086224	Carrie	1/12/06	William	23198 Aloha Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086225	Gabriela	1/12/06	Abigail	24301 Cottonwood Spring Field, New Cicily
+Bad
+Good
+Good
+Good
+
+3231797166716086226	Brian	1/12/06	Diego	11961 A Spring Field, New Cicily
+Bad
+
+3231797166716086227	Kenneth	1/12/06	Alan	15451 Lehua Spring Field, New Cicily
+Good
+
+3231797166716086228	Vivian	1/12/06	Alan	29772 Columbine Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086229	Franklin	1/12/06	Abigail	12230 Sycamore Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086230	Jimmy	1/12/06	William	17335 Jackson Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086231	Walter	1/12/06	Alan	6851 Malulani Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086232	Sarah	1/12/06	Evelyn	12354 Highland Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086233	Vincent	1/12/06	Tracey	26130 Pioneer Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086234	Gloria	1/12/06	Devon	12334 Sixth Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086235	Christopher	1/12/06	Evelyn	22034 West Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086236	Shirley	1/12/06	Alan	12634 Aloha Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086237	Louis	1/12/06	Devon	3632 Seventh Spring Field, New Cicily
+Bad
+
+3231797166716086238	Kayla	1/12/06	Jessica	24505 Laurel Spring Field, New Cicily
+Bad
+Good
+Bad
+Ugly
+
+3231797166716086239	Rodney	1/13/06	Devon	27799 Ninth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086240	Nicole	1/13/06	Jessica	6471 Ninth Spring Field, New Cicily
+Good
+
+3231797166716086241	Theodore	1/13/06	Jessica	29575 S 100 Spring Field, New Cicily
+Ugly
+
+3231797166716086242	Tracie	1/13/06	Abigail	98 Mesquite Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086243	Derrick	1/13/06	Tracey	14741 Mesquite Spring Field, New Cicily
+Bad
+
+3231797166716086244	Denise	1/13/06	William	25643 Aspen Spring Field, New Cicily
+Good
+
+3231797166716086245	Leah	1/13/06	Abigail	2157 North Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086246	Lisa	1/13/06	Devon	24532 Redwood Spring Field, New Cicily
+Ugly
+Good
+Bad
+Good
+
+3231797166716086247	Gail	1/13/06	Tracey	10281 Evergreen Spring Field, New Cicily
+Bad
+
+3231797166716086248	Lori	1/13/06	William	15337 Wilson Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086249	Diana	1/13/06	Tracey	18841 Palo Verde Spring Field, New Cicily
+Bad
+
+3231797166716086250	Lynn	1/13/06	Jessica	4422 Lake Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086251	Maria	1/13/06	Jessica	1039 Cypress Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086252	Anna	1/13/06	Tracey	11120 Holly Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086253	Franklin	1/13/06	Diego	2516 Lakeview Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086254	Charles	1/13/06	Alan	18159 Cherry Spring Field, New Cicily
+Good
+Ugly
+Good
+Bad
+
+3231797166716086255	Vanessa	1/13/06	Abigail	16504 Cypress Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086256	Monica	1/13/06	Jessica	29711 Seventh Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Bad
+
+3231797166716086257	Renee	1/13/06	Alan	13749 Pleasant Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086258	Roger	1/13/06	Alan	11055 Dogwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086259	Melinda	1/13/06	William	21589 Sunset Spring Field, New Cicily
+Good
+
+3231797166716086260	Russell	1/13/06	Tracey	12982 Jackson Spring Field, New Cicily
+Ugly
+
+3231797166716086261	Jocelyn	1/13/06	Jessica	7166 Church Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086262	Larry	1/13/06	Diego	10839 Tenth Spring Field, New Cicily
+Good
+Good
+
+3231797166716086263	Sara	1/13/06	Diego	3374 Main Spring Field, New Cicily
+Good
+Good
+Bad
+Good
+
+3231797166716086264	Norman	1/13/06	William	13231 Cherry Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086265	Howard	1/13/06	Jessica	15868 Cottonwood Spring Field, New Cicily
+Bad
+
+3231797166716086266	Valerie	1/13/06	Jessica	18730 Kukui Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086267	Wendy	1/13/06	Tracey	28034 Eighth Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086268	Clara	1/13/06	Devon	9015 Sixth Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086269	Stanley	1/13/06	Jessica	29648 Laurel Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086270	Luis	1/13/06	Abigail	10466 Washington Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086271	Ronald	1/13/06	Diego	16480 Main Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086272	Hayden	1/13/06	Devon	10224 Tenth Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Ugly
+
+3231797166716086273	Harold	1/13/06	Diego	6290 Maple Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086274	Helen	1/13/06	Evelyn	29066 Broadway Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086275	Maxwell	1/13/06	Diego	2758 Sixth Spring Field, New Cicily
+Good
+
+3231797166716086276	Jennifer	1/13/06	William	18667 Aloha Spring Field, New Cicily
+Good
+Bad
+Bad
+Good
+
+3231797166716086277	Kathryn	1/13/06	Abigail	2319 Hemlock Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086278	Reginald	1/13/06	Jessica	4807 Sycamore Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086279	Jose	1/13/06	William	27045 S 100 Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086280	Javier	1/13/06	Alan	1726 Aspen Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086281	Scott	1/13/06	Evelyn	25823 Jackson Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086282	Isabelle	1/13/06	Devon	7042 Cottonwood Spring Field, New Cicily
+Ugly
+
+3231797166716086283	Alicia	1/13/06	William	26659 Ninth Spring Field, New Cicily
+Good
+Good
+
+3231797166716086284	David	1/13/06	Abigail	19149 Fourth Spring Field, New Cicily
+Bad
+
+3231797166716086285	Isaiah	1/14/06	James	21100 Fifth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086286	Christy	1/14/06	Diego	11561 Smith Spring Field, New Cicily
+Good
+
+3231797166716086287	John	1/14/06	Devon	12798 Smith Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086288	Kaleb	1/14/06	Devon	29276 Cottonwood Spring Field, New Cicily
+Bad
+
+3231797166716086289	Desiree	1/14/06	Devon	23281 Apache Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086290	Anna	1/14/06	Devon	26508 Center Spring Field, New Cicily
+Good
+Ugly
+Bad
+Ugly
+
+3231797166716086291	Eric	1/14/06	Alan	11586 Aloha Spring Field, New Cicily
+Bad
+
+3231797166716086292	Jonathan	1/14/06	Diego	21636 Palo Verde Spring Field, New Cicily
+Ugly
+
+3231797166716086293	Oscar	1/14/06	James	20364 Hill Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+Good
+
+3231797166716086294	William	1/14/06	William	19292 Williams Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086295	Parker	1/14/06	Evelyn	24205 S 400 Spring Field, New Cicily
+Good
+Good
+
+3231797166716086296	Lester	1/14/06	James	26813 Eleventh Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086297	Mark	1/14/06	Tracey	28387 S 100 Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086298	Valerie	1/14/06	Devon	6772 Wilson Spring Field, New Cicily
+Bad
+
+3231797166716086299	Eric	1/14/06	Tracey	11723 Columbine Spring Field, New Cicily
+Bad
+Bad
+Good
+Bad
+
+3231797166716086300	Michael	1/14/06	Devon	21377 Jackson Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086301	Peggy	1/14/06	James	13949 Palo Verde Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086302	Angela	1/14/06	Devon	286 Orchard Spring Field, New Cicily
+Good
+Bad
+Good
+Bad
+
+3231797166716086303	Alison	1/14/06	Evelyn	25143 Pinon Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086304	Suzanne	1/14/06	Evelyn	28570 Walnut Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086305	Catherine	1/14/06	Jessica	15150 Wilson Spring Field, New Cicily
+Ugly
+
+3231797166716086306	Victoria	1/14/06	James	29875 Jackson Spring Field, New Cicily
+Good
+
+3231797166716086307	Erik	1/14/06	Alan	3924 Eighth Spring Field, New Cicily
+Ugly
+
+3231797166716086308	Margie	1/14/06	Jessica	6947 Shore Spring Field, New Cicily
+Good
+Good
+
+3231797166716086309	Marvin	1/14/06	Devon	1430 Maple Spring Field, New Cicily
+Good
+Good
+
+3231797166716086310	Adam	1/14/06	Alan	13764 Hemlock Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086311	Elizabeth	1/14/06	Jessica	5560 Fourth Spring Field, New Cicily
+Bad
+
+3231797166716086312	Wayne	1/14/06	Devon	8509 Twelfth Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086313	Angel	1/14/06	William	1734 Aspen Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086314	Diana	1/14/06	Diego	17458 Twelfth Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086315	Vicki	1/14/06	James	19197 Orchard Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086316	Carrie	1/14/06	Evelyn	23198 Aloha Spring Field, New Cicily
+Good
+
+3231797166716086317	Erin	1/14/06	Diego	28668 Kahili Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086318	Amber	1/14/06	Evelyn	28963 Fourth Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086319	Andre	1/14/06	Evelyn	25789 Church Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086320	Timothy	1/14/06	Evelyn	25929 Center Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086321	Faith	1/14/06	William	22891 Thirteenth Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086322	Veronica	1/14/06	William	2272 Hillside Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086323	Kevin	1/14/06	Devon	5311 West Spring Field, New Cicily
+Ugly
+
+3231797166716086324	Stanley	1/14/06	James	14880 Eighth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086325	Rachael	1/14/06	Evelyn	3303 Main Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086326	Ernest	1/14/06	Alan	3438 Malulani Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086327	Dale	1/14/06	William	4670 Pinon Spring Field, New Cicily
+Bad
+
+3231797166716086328	Carly	1/14/06	Diego	14280 Park Spring Field, New Cicily
+Bad
+
+3231797166716086329	Ryan	1/14/06	Devon	7015 Shore Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086330	Allen	1/14/06	Jessica	15449 Broadway Spring Field, New Cicily
+Good
+
+3231797166716086331	Sarah	1/14/06	Jessica	18720 County Line Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086332	Lester	1/14/06	Alan	308 Pine Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086333	Brenda	1/14/06	Jessica	23809 Magnolia Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086334	Derrick	1/15/06	Tracey	14063 Tenth Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086335	Douglas	1/15/06	Jessica	15053 Orchard Spring Field, New Cicily
+Ugly
+
+3231797166716086336	Tommy	1/15/06	Diego	19177 Malulani Spring Field, New Cicily
+Ugly
+
+3231797166716086337	Caroline	1/15/06	James	26586 Thirteenth Spring Field, New Cicily
+Good
+
+3231797166716086338	Calvin	1/15/06	Tracey	10512 Wilson Spring Field, New Cicily
+Ugly
+
+3231797166716086339	Douglas	1/15/06	Diego	10655 Twelfth Spring Field, New Cicily
+Ugly
+
+3231797166716086340	Daniela	1/15/06	Alan	15659 Airport Spring Field, New Cicily
+Bad
+
+3231797166716086341	Bryan	1/15/06	Victor	9988 Aloha Spring Field, New Cicily
+Bad
+
+3231797166716086342	Stephen	1/15/06	Victor	3586 Holly Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086343	Darin	1/15/06	William	16877 Center Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086344	Antonio	1/15/06	Evelyn	16317 Mountain View Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086345	Wayne	1/15/06	Evelyn	1674 Pecan Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086346	Cassandra	1/15/06	James	11874 County Line Spring Field, New Cicily
+Good
+
+3231797166716086347	Clinton	1/15/06	James	28745 Airport Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086348	Annette	1/15/06	James	2925 Spruce Spring Field, New Cicily
+Ugly
+
+3231797166716086349	Megan	1/15/06	William	8971 N 400 Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086350	Robert	1/15/06	William	7553 Thirteenth Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086351	Evelyn	1/15/06	Jessica	3337 Mesquite Spring Field, New Cicily
+Bad
+
+3231797166716086352	Matthew	1/15/06	James	19752 Eighth Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086353	Margie	1/15/06	James	14551 North Spring Field, New Cicily
+Bad
+
+3231797166716086354	Gregory	1/15/06	Tracey	9535 Aloha Spring Field, New Cicily
+Bad
+
+3231797166716086355	Edward	1/15/06	Tracey	24326 Sixth Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716086356	Hunter	1/15/06	Alan	20745 Quail Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086357	Daryl	1/15/06	Evelyn	9159 Broadway Spring Field, New Cicily
+Good
+Good
+
+3231797166716086358	Dawn	1/15/06	Tracey	15636 N 400 Spring Field, New Cicily
+Bad
+
+3231797166716086359	Alexis	1/15/06	Alan	22291 Mountain View Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086360	Becky	1/15/06	Tracey	21454 West Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086361	Lucy	1/15/06	Victor	12686 Lehua Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086362	Martin	1/15/06	Victor	6168 Redwood Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086363	Tom	1/15/06	Tracey	10612 Redwood Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086364	Allison	1/15/06	Alan	29268 S 100 Spring Field, New Cicily
+Bad
+
+3231797166716086365	Bernard	1/15/06	Evelyn	25926 Eighth Spring Field, New Cicily
+Bad
+Ugly
+Good
+Good
+
+3231797166716086366	Colby	1/15/06	James	20472 Main Spring Field, New Cicily
+Good
+Good
+
+3231797166716086367	Jade	1/15/06	Evelyn	22371 County Line Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086368	William	1/15/06	Jessica	10231 Aspen Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086369	Bridget	1/15/06	Evelyn	3948 Wilson Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086370	Trinity	1/15/06	Diego	25181 Johnson Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086371	Brenda	1/15/06	Diego	25995 Airport Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Bad
+
+3231797166716086372	Joe	1/15/06	Tracey	14977 Maple Spring Field, New Cicily
+Ugly
+
+3231797166716086373	Michael	1/15/06	Victor	3872 Walnut Spring Field, New Cicily
+Good
+Ugly
+Good
+Good
+
+3231797166716086374	Lee	1/15/06	Jessica	4649 Ridge Spring Field, New Cicily
+Good
+
+3231797166716086375	Kimberly	1/16/06	William	10317 Fifth Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086376	Faith	1/16/06	James	7329 Willow Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086377	Mikayla	1/16/06	Jessica	19339 Kansas Spring Field, New Cicily
+Good
+
+3231797166716086378	Tony	1/16/06	Victor	25727 Narragansett Spring Field, New Cicily
+Bad
+
+3231797166716086379	Molly	1/16/06	Jessica	20460 Apache Spring Field, New Cicily
+Ugly
+
+3231797166716086380	Anna	1/16/06	Tracey	1441 Second Spring Field, New Cicily
+Ugly
+Bad
+Good
+Good
+
+3231797166716086381	Eugene	1/16/06	Victor	17771 Sunset Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086382	Donnie	1/16/06	Evelyn	21388 Lee Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086383	Sierra	1/16/06	Diego	5653 Williams Spring Field, New Cicily
+Good
+
+3231797166716086384	Carmen	1/16/06	Tracey	13763 Cherry Spring Field, New Cicily
+Good
+
+3231797166716086385	Margie	1/16/06	James	14551 North Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086386	Samantha	1/16/06	Diego	4810 Navajo Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086387	Bruce	1/16/06	Evelyn	4608 Cottonwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086388	Meagan	1/16/06	Diego	5169 Delaware Spring Field, New Cicily
+Good
+
+3231797166716086389	Monica	1/16/06	Diego	26783 Second Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086390	Billy	1/16/06	Tracey	1014 Meadow Spring Field, New Cicily
+Ugly
+
+3231797166716086391	Alex	1/16/06	Jessica	15857 Laurel Spring Field, New Cicily
+Bad
+
+3231797166716086392	Claude	1/16/06	Diego	14060 Oak Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086393	Miranda	1/16/06	Jessica	16246 Shore Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086394	Philip	1/16/06	Evelyn	17221 S 100 Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086395	Dan	1/16/06	Jessica	10622 Twelfth Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086396	Melinda	1/16/06	Diego	21589 Sunset Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086397	Monica	1/16/06	James	28003 Oak Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086398	Rickey	1/16/06	Tracey	9679 Johnson Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086399	Virginia	1/16/06	Victor	9774 Lehua Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086400	Colleen	1/16/06	James	8394 Pine Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086401	Jim	1/16/06	Victor	1645 Sixth Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086402	Sally	1/16/06	William	18606 Lehua Spring Field, New Cicily
+Ugly
+Good
+Ugly
+Bad
+
+3231797166716086403	Crystal	1/16/06	Alan	12003 County Line Spring Field, New Cicily
+Bad
+
+3231797166716086404	Theodore	1/16/06	Jessica	8749 S 400 Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086405	Kenneth	1/16/06	Victor	15451 Lehua Spring Field, New Cicily
+Ugly
+
+3231797166716086406	Claudia	1/16/06	Victor	15926 Lakeview Spring Field, New Cicily
+Bad
+
+3231797166716086407	Earnest	1/16/06	William	14932 Willow Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086408	Natalie	1/16/06	Diego	29701 Third Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086409	Jenna	1/16/06	Tracey	26159 Hill Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086410	Blake	1/16/06	Evelyn	16429 S 400 Spring Field, New Cicily
+Good
+Good
+
+3231797166716086411	Tonya	1/16/06	Evelyn	1678 Maple Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086412	Sydney	1/16/06	Evelyn	5190 Eleventh Spring Field, New Cicily
+Good
+
+3231797166716086413	Kevin	1/16/06	William	4572 Elm Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086414	Veronica	1/16/06	Evelyn	2272 Hillside Spring Field, New Cicily
+Good
+Good
+
+3231797166716086415	Peter	1/16/06	Jessica	2806 Broadway Spring Field, New Cicily
+Good
+
+3231797166716086416	Marie	1/16/06	James	12845 Hampton Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086417	Billy	1/16/06	Alan	4764 North Spring Field, New Cicily
+Bad
+Bad
+Bad
+Bad
+
+3231797166716086418	Earl	1/17/06	Victor	15157 West Spring Field, New Cicily
+Bad
+Bad
+Ugly
+Bad
+
+3231797166716086419	Ray	1/17/06	Robert	22574 Third Spring Field, New Cicily
+Bad
+
+3231797166716086420	Chris	1/17/06	Victor	14606 Columbine Spring Field, New Cicily
+Good
+
+3231797166716086421	Jacqueline	1/17/06	Diego	19244 S 400 Spring Field, New Cicily
+Good
+Good
+
+3231797166716086422	Janet	1/17/06	James	12252 Fourth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086423	Cheyenne	1/17/06	William	3413 Washington Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086424	Joann	1/17/06	Alan	10614 Second Spring Field, New Cicily
+Good
+Bad
+Good
+Bad
+
+3231797166716086425	Christopher	1/17/06	Victor	25565 Quail Spring Field, New Cicily
+Good
+Good
+Ugly
+Bad
+
+3231797166716086426	Tony	1/17/06	Victor	6670 Dogwood Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086427	Barbara	1/17/06	James	26715 S 100 Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086428	Jon	1/17/06	Evelyn	29260 Sixth Spring Field, New Cicily
+Good
+
+3231797166716086429	Lynn	1/17/06	William	4422 Lake Spring Field, New Cicily
+Ugly
+
+3231797166716086430	Alyssa	1/17/06	William	3517 River Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086431	Melinda	1/17/06	William	15287 Redwood Spring Field, New Cicily
+Ugly
+
+3231797166716086432	Angela	1/17/06	Evelyn	25440 Quail Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086433	Christopher	1/17/06	William	2056 Meadow Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086434	Matthew	1/17/06	Jessica	14410 River Spring Field, New Cicily
+Bad
+
+3231797166716086435	Brittney	1/17/06	Evelyn	6015 Narragansett Spring Field, New Cicily
+Good
+Good
+
+3231797166716086436	Dana	1/17/06	Victor	25764 Williams Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086437	Charles	1/17/06	James	14866 Juniper Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086438	Ryan	1/17/06	William	9780 Malulani Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Ugly
+
+3231797166716086439	Zachary	1/17/06	William	2099 Lincoln Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086440	Tanya	1/17/06	Diego	22898 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086441	Benjamin	1/17/06	James	21606 Thirteenth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086442	Eva	1/17/06	Diego	13473 Cottonwood Spring Field, New Cicily
+Ugly
+
+3231797166716086443	Cooper	1/17/06	James	11352 Cypress Spring Field, New Cicily
+Bad
+
+3231797166716086444	Marisa	1/17/06	Robert	18844 Orchard Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086445	Megan	1/17/06	James	10379 Pioneer Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086446	Juliana	1/17/06	Victor	24669 S 400 Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086447	Kenneth	1/17/06	Jessica	22014 Kansas Spring Field, New Cicily
+Bad
+
+3231797166716086448	Phyllis	1/17/06	Evelyn	28792 S 100 Spring Field, New Cicily
+Ugly
+
+3231797166716086449	Claudia	1/17/06	Evelyn	27143 Center Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086450	Kelsey	1/17/06	Victor	29332 Cottonwood Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086451	Heidi	1/17/06	Alan	14226 Lakeview Spring Field, New Cicily
+Ugly
+
+3231797166716086452	George	1/17/06	Diego	19324 Meadow Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086453	Alexander	1/17/06	Jessica	14062 Washington Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086454	Angel	1/17/06	Robert	3228 Mesquite Spring Field, New Cicily
+Bad
+
+3231797166716086455	Vincent	1/17/06	James	28518 North Spring Field, New Cicily
+Bad
+
+3231797166716086456	Mallory	1/17/06	Diego	21480 Columbine Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086457	Jane	1/17/06	Evelyn	3375 Palo Verde Spring Field, New Cicily
+Ugly
+
+3231797166716086458	Edward	1/17/06	Diego	8814 Kahili Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086459	Tiffany	1/17/06	Jessica	9192 Apache Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086460	Gail	1/17/06	Evelyn	14662 Washington Spring Field, New Cicily
+Ugly
+
+3231797166716086461	Paulette	1/17/06	Diego	16795 Hill Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086462	Brian	1/17/06	Jessica	5798 Birch Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086463	Willie	1/17/06	James	12532 First Spring Field, New Cicily
+Bad
+
+3231797166716086464	Tami	1/17/06	Robert	14544 Cypress Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086465	Abigail	1/17/06	Alan	26711 Meadow Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086466	Kayla	1/17/06	James	24505 Laurel Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086467	Gary	1/17/06	Diego	18622 Meadow Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086468	Omar	1/17/06	Robert	12128 Spruce Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086469	Traci	1/17/06	Diego	22501 Broadway Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086470	Catherine	1/18/06	Evelyn	8867 Malulani Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086471	Derek	1/18/06	Diego	21013 Sunset Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086472	Jo	1/18/06	Alan	9926 Lake Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086473	Mitchell	1/18/06	Evelyn	27006 Seventh Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086474	Stanley	1/18/06	James	17985 Thirteenth Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086475	Milton	1/18/06	Victor	5641 Cottonwood Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Bad
+
+3231797166716086476	Denise	1/18/06	Diego	25643 Aspen Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086477	Joshua	1/18/06	Diego	26893 Birch Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086478	Melanie	1/18/06	Joseph	5890 Quail Spring Field, New Cicily
+Bad
+Ugly
+Good
+Ugly
+
+3231797166716086479	Stacey	1/18/06	Alan	10930 Canyon Spring Field, New Cicily
+Bad
+
+3231797166716086480	Alejandro	1/18/06	Diego	1617 Broadway Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086481	Jaclyn	1/18/06	Jessica	8877 Navajo Spring Field, New Cicily
+Good
+
+3231797166716086482	Ronald	1/18/06	James	17445 Kahili Spring Field, New Cicily
+Ugly
+Bad
+Good
+
+3231797166716086483	Breanna	1/18/06	Jessica	19581 Seventh Spring Field, New Cicily
+Good
+
+3231797166716086484	Jenna	1/18/06	Jessica	23629 Center Spring Field, New Cicily
+Good
+Ugly
+Bad
+Bad
+
+3231797166716086485	Steven	1/18/06	James	5892 Cedar Spring Field, New Cicily
+Good
+
+3231797166716086486	Tammy	1/18/06	Diego	16974 Juniper Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086487	Travis	1/18/06	Robert	21572 Holly Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086488	Ernest	1/18/06	Jessica	25586 Lee Spring Field, New Cicily
+Ugly
+
+3231797166716086489	Leslie	1/18/06	Evelyn	18373 Pinon Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086490	Herbert	1/18/06	Diego	2515 Meadow Spring Field, New Cicily
+Good
+Good
+
+3231797166716086491	Joseph	1/18/06	Alan	3061 Main Spring Field, New Cicily
+Good
+Ugly
+Good
+Bad
+
+3231797166716086492	Cory	1/18/06	Jessica	3923 Mountain View Spring Field, New Cicily
+Ugly
+
+3231797166716086493	Sandra	1/18/06	Jessica	18748 Center Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086494	Judy	1/18/06	Joseph	10068 Birch Spring Field, New Cicily
+Good
+Bad
+Ugly
+Ugly
+
+3231797166716086495	Connor	1/18/06	Joseph	11266 Airport Spring Field, New Cicily
+Good
+Ugly
+Bad
+Bad
+
+3231797166716086496	Ariel	1/18/06	Joseph	20049 Orchard Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086497	Andrew	1/18/06	Alan	21478 Williams Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086498	Alyssa	1/18/06	Jessica	8520 Lake Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086499	Calvin	1/18/06	James	7359 S 400 Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086500	Aaron	1/18/06	Robert	22966 Hill Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086501	Rebecca	1/18/06	Joseph	3364 Airport Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086502	Tony	1/18/06	Joseph	25382 Washington Spring Field, New Cicily
+Bad
+
+3231797166716086503	Shirley	1/18/06	James	14741 Sunset Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086504	Carla	1/18/06	Joseph	21385 Cottonwood Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086505	Johnny	1/18/06	Alan	28927 Shore Spring Field, New Cicily
+Good
+
+3231797166716086506	Darlene	1/18/06	James	9454 Redwood Spring Field, New Cicily
+Bad
+
+3231797166716086507	Chris	1/18/06	Joseph	23937 Spruce Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086508	Derek	1/18/06	James	18967 Laurel Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086509	Julia	1/18/06	Evelyn	14433 Sycamore Spring Field, New Cicily
+Good
+
+3231797166716086510	Marc	1/18/06	Robert	26797 Delaware Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086511	Allen	1/18/06	Diego	22176 Pecan Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086512	Ronald	1/18/06	Diego	22098 Lehua Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086513	Lilly	1/18/06	Diego	18211 Orchard Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086514	Lorraine	1/18/06	Joseph	4419 Orchard Spring Field, New Cicily
+Bad
+
+3231797166716086515	Phyllis	1/18/06	Alan	10922 Cedar Spring Field, New Cicily
+Bad
+
+3231797166716086516	Jeffrey	1/18/06	Alan	21029 Smith Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086517	Howard	1/18/06	Alan	25462 Redwood Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086518	Roy	1/18/06	Diego	3286 Pioneer Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086519	Marsha	1/18/06	Joseph	972 Hampton Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086520	Benjamin	1/18/06	Evelyn	8563 Hampton Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086521	Kristopher	1/18/06	Jessica	7097 North Spring Field, New Cicily
+Good
+
+3231797166716086522	Robert	1/18/06	Diego	2082 Canyon Spring Field, New Cicily
+Ugly
+
+3231797166716086523	Douglas	1/18/06	Diego	16789 Kahili Spring Field, New Cicily
+Bad
+
+3231797166716086524	Levi	1/18/06	Joseph	1345 Holly Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086525	Christine	1/18/06	Joseph	21024 Fourth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086526	Gary	1/18/06	Diego	9018 Hill Spring Field, New Cicily
+Good
+
+3231797166716086527	Jason	1/18/06	Joseph	22396 Wood Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086528	Daisy	1/18/06	Jessica	18085 Lakeview Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086529	Tyrone	1/18/06	Diego	26764 Lehua Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086530	Krista	1/18/06	Evelyn	13775 Lincoln Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086531	Rhonda	1/18/06	Evelyn	16497 Apache Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086532	Valerie	1/19/06	Victor	28404 Aspen Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086533	Leo	1/19/06	Diego	8645 Bay Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086534	Sara	1/19/06	Diego	26918 Elm Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086535	Molly	1/19/06	Victor	13517 Birch Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086536	Christopher	1/19/06	Robert	23674 River Spring Field, New Cicily
+Ugly
+
+3231797166716086537	Brent	1/19/06	Evelyn	3235 Redwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086538	Sofia	1/19/06	Victor	9394 Johnson Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086539	Raymond	1/19/06	Alan	13636 Mesquite Spring Field, New Cicily
+Ugly
+
+3231797166716086540	Frederick	1/19/06	Joseph	26546 Pioneer Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086541	Jody	1/19/06	Evelyn	27785 Fourth Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086542	Betty	1/19/06	Joseph	17400 Cedar Spring Field, New Cicily
+Good
+
+3231797166716086543	Linda	1/19/06	Victor	13717 Dogwood Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086544	Carson	1/19/06	Terrence	19491 Kukui Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086545	Emily	1/19/06	Alan	3657 Pioneer Spring Field, New Cicily
+Ugly
+
+3231797166716086546	Robyn	1/19/06	Victor	6165 First Spring Field, New Cicily
+Ugly
+
+3231797166716086547	Larry	1/19/06	Alan	17895 Wood Spring Field, New Cicily
+Ugly
+
+3231797166716086548	Billy	1/19/06	Evelyn	1148 Smith Spring Field, New Cicily
+Bad
+
+3231797166716086549	Allan	1/19/06	Joseph	25685 Wood Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086550	Matthew	1/19/06	Joseph	4660 Wood Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086551	Gordon	1/19/06	Victor	24830 Columbine Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086552	Gordon	1/19/06	Jessica	20584 Bay Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086553	Garrett	1/19/06	Evelyn	21710 County Line Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086554	Stephanie	1/19/06	Diego	27043 Pine Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086555	Wayne	1/19/06	Alan	9008 Aloha Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086556	Marsha	1/19/06	Robert	430 Highland Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086557	Carl	1/19/06	Diego	179 Delaware Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086558	Curtis	1/19/06	Terrence	5106 Magnolia Spring Field, New Cicily
+Bad
+
+3231797166716086559	Kenneth	1/19/06	Alan	22014 Kansas Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086560	Rose	1/19/06	Jessica	9811 Navajo Spring Field, New Cicily
+Ugly
+
+3231797166716086561	Maria	1/19/06	Jessica	12460 Highland Spring Field, New Cicily
+Bad
+Good
+Bad
+Good
+
+3231797166716086562	Michael	1/19/06	Diego	8464 Mesquite Spring Field, New Cicily
+Bad
+
+3231797166716086563	Angelica	1/19/06	Terrence	23220 Lee Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086564	Gwendolyn	1/19/06	Alan	12420 Hillside Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086565	Leon	1/19/06	Alan	6713 Oak Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086566	Douglas	1/19/06	Alan	4738 Twelfth Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086567	Holly	1/19/06	Robert	26163 Meadow Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086568	Adrian	1/19/06	Jessica	26333 Fourth Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086569	Denise	1/19/06	Alan	28952 A Spring Field, New Cicily
+Good
+
+3231797166716086570	Mario	1/19/06	Robert	5084 Church Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086571	Elijah	1/19/06	Diego	13730 Ridge Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086572	Richard	1/19/06	Evelyn	9701 Kukui Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Bad
+
+3231797166716086573	Rachel	1/19/06	Diego	5747 Fourth Spring Field, New Cicily
+Good
+
+3231797166716086574	Brad	1/19/06	Joseph	17899 Wilson Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086575	Scott	1/19/06	Evelyn	25823 Jackson Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086576	Dana	1/19/06	Joseph	286 Kansas Spring Field, New Cicily
+Good
+Good
+Bad
+Good
+
+3231797166716086577	Gilbert	1/19/06	Victor	10041 Sycamore Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086578	Tim	1/19/06	Diego	2227 Cedar Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086579	Dana	1/19/06	Jessica	23473 Church Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086580	Tracy	1/19/06	Evelyn	139 Lehua Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086581	Herman	1/20/06	Sam	718 Hillside Spring Field, New Cicily
+Good
+
+3231797166716086582	Felicia	1/20/06	Sam	1785 Sycamore Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086583	Daniel	1/20/06	Alan	2213 Park Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086584	Larry	1/20/06	Joseph	12595 Fifth Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+Ugly
+
+3231797166716086585	Angela	1/20/06	Jessica	16420 Maple Spring Field, New Cicily
+Bad
+
+3231797166716086586	Anna	1/20/06	Terrence	26508 Center Spring Field, New Cicily
+Good
+Good
+
+3231797166716086587	Alicia	1/20/06	Terrence	7966 Tenth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086588	April	1/20/06	Terrence	21483 Orchard Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086589	Andres	1/20/06	Sam	18776 Orchard Spring Field, New Cicily
+Good
+
+3231797166716086590	Victor	1/20/06	Robert	19095 Cherry Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086591	Manuel	1/20/06	Sam	12997 Canyon Spring Field, New Cicily
+Good
+Good
+
+3231797166716086592	Joel	1/20/06	Evelyn	19512 Dogwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086593	Wayne	1/20/06	Alan	1990 Cypress Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086594	Dorothy	1/20/06	Terrence	16236 Kahili Spring Field, New Cicily
+Ugly
+
+3231797166716086595	Milton	1/20/06	Alan	26504 Spruce Spring Field, New Cicily
+Ugly
+
+3231797166716086596	Catherine	1/20/06	Robert	12845 First Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086597	Cory	1/20/06	Diego	3087 Juniper Spring Field, New Cicily
+Ugly
+
+3231797166716086598	Anna	1/20/06	Joseph	15449 Sunset Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086599	Elaine	1/20/06	Robert	10509 Quail Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086600	Maria	1/20/06	Sam	1033 Church Spring Field, New Cicily
+Bad
+
+3231797166716086601	Evelyn	1/20/06	Sam	4462 West Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086602	Priscilla	1/20/06	Terrence	22678 Main Spring Field, New Cicily
+Bad
+
+3231797166716086603	Louis	1/20/06	Jessica	21748 Ninth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086604	Alicia	1/20/06	Evelyn	21686 Kukui Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086605	Fernando	1/20/06	Terrence	25734 Cottonwood Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086606	Douglas	1/20/06	Terrence	23619 Kukui Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086607	Sarah	1/20/06	Joseph	10185 Lakeview Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086608	Rachel	1/20/06	Robert	17494 Aloha Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086609	Daisy	1/20/06	Joseph	15048 Kahili Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086610	Seth	1/20/06	Alan	7699 Hampton Spring Field, New Cicily
+Bad
+
+3231797166716086611	Jade	1/20/06	Jessica	29374 Kukui Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086612	Chris	1/20/06	Robert	25143 Third Spring Field, New Cicily
+Ugly
+
+3231797166716086613	Mindy	1/20/06	Robert	24811 Hampton Spring Field, New Cicily
+Ugly
+
+3231797166716086614	Vicki	1/20/06	Diego	8412 Cedar Spring Field, New Cicily
+Good
+
+3231797166716086615	Alicia	1/20/06	Alan	601 Fourth Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086616	Nicholas	1/20/06	Sam	10321 Broadway Spring Field, New Cicily
+Ugly
+Ugly
+Good
+Bad
+
+3231797166716086617	Andres	1/20/06	Joseph	5197 Dogwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086618	Lindsey	1/20/06	Joseph	10970 Jackson Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086619	Allison	1/20/06	Terrence	10193 Orchard Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086620	Kevin	1/20/06	Alan	4572 Elm Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086621	Kristopher	1/20/06	Diego	7097 North Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086622	Richard	1/20/06	Robert	9701 Kukui Spring Field, New Cicily
+Good
+Good
+Bad
+Bad
+
+3231797166716086623	Martin	1/20/06	Joseph	7355 Holly Spring Field, New Cicily
+Good
+
+3231797166716086624	Janis	1/20/06	Sam	22113 S 400 Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086625	Alicia	1/20/06	Jessica	28826 Pleasant Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086626	Nathan	1/20/06	Joseph	20950 Palo Verde Spring Field, New Cicily
+Bad
+
+3231797166716086627	Sergio	1/21/06	Liliana	23727 Eighth Spring Field, New Cicily
+Good
+Bad
+Bad
+Ugly
+
+3231797166716086628	Charlene	1/21/06	Robert	4938 Eleventh Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086629	Neil	1/21/06	Joseph	25442 Maple Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086630	Harry	1/21/06	Robert	26805 Hemlock Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086631	Chester	1/21/06	Robert	8691 Evergreen Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086632	Danny	1/21/06	Evelyn	28106 Sixth Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086633	Donald	1/21/06	Liliana	9645 Palo Verde Spring Field, New Cicily
+Good
+Good
+
+3231797166716086634	Wallace	1/21/06	Alan	22131 Meadow Spring Field, New Cicily
+Bad
+
+3231797166716086635	Sonya	1/21/06	Sam	2962 Cedar Spring Field, New Cicily
+Ugly
+
+3231797166716086636	Wayne	1/21/06	Evelyn	14468 Mesquite Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086637	John	1/21/06	Liliana	18174 Lincoln Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086638	Theodore	1/21/06	Sam	9825 Aloha Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086639	Lynn	1/21/06	Liliana	4422 Lake Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086640	Jerry	1/21/06	Liliana	19625 Aspen Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086641	Donnie	1/21/06	Alan	21388 Lee Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086642	Billie	1/21/06	Alan	1541 Mountain View Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086643	Cynthia	1/21/06	Alan	1704 Pleasant Spring Field, New Cicily
+Ugly
+
+3231797166716086644	Nolan	1/21/06	Sam	27622 Holly Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086645	Pedro	1/21/06	Evelyn	10150 Narragansett Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086646	Melissa	1/21/06	Robert	24157 West Spring Field, New Cicily
+Good
+Bad
+Good
+Bad
+
+3231797166716086647	Cassidy	1/21/06	Jessica	18238 Spruce Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086648	Randall	1/21/06	Liliana	19165 S 100 Spring Field, New Cicily
+Bad
+
+3231797166716086649	Benjamin	1/21/06	Joseph	1288 Second Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086650	Seth	1/21/06	Terrence	29838 Main Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086651	Oscar	1/21/06	Joseph	13611 Johnson Spring Field, New Cicily
+Ugly
+
+3231797166716086652	Roberta	1/21/06	Joseph	8341 Thirteenth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086653	Joel	1/21/06	Robert	17156 Magnolia Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086654	Wanda	1/21/06	Evelyn	23019 Lee Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086655	Kaitlin	1/21/06	Evelyn	14283 Canyon Spring Field, New Cicily
+Ugly
+Bad
+Good
+Bad
+
+3231797166716086656	Darius	1/21/06	Evelyn	10309 Oak Spring Field, New Cicily
+Good
+
+3231797166716086657	Kimberly	1/21/06	Liliana	13035 Kukui Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086658	Walter	1/21/06	Evelyn	6851 Malulani Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086659	Gabriel	1/21/06	Alan	29433 Sycamore Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086660	Sean	1/21/06	Alan	6923 Ninth Spring Field, New Cicily
+Good
+Ugly
+Good
+Bad
+
+3231797166716086661	Craig	1/21/06	Liliana	11931 Apache Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086662	Brian	1/21/06	Terrence	5798 Birch Spring Field, New Cicily
+Ugly
+
+3231797166716086663	Stuart	1/21/06	Joseph	6899 Pecan Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086664	Beth	1/21/06	Terrence	1694 Hemlock Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Good
+
+3231797166716086665	Rebekah	1/21/06	Evelyn	27605 N 400 Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086666	Darlene	1/21/06	Terrence	17094 Fifth Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086667	Sean	1/21/06	Joseph	18247 Jackson Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086668	Harry	1/22/06	Evelyn	2821 Pioneer Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086669	Gage	1/22/06	Joseph	21786 Eleventh Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Ugly
+
+3231797166716086670	Anna	1/22/06	Sam	26508 Center Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086671	Natalie	1/22/06	Liliana	12579 Wood Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086672	Jose	1/22/06	Sam	29640 Washington Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086673	Katherine	1/22/06	Robert	13213 Second Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086674	Melanie	1/22/06	Terrence	5890 Quail Spring Field, New Cicily
+Good
+Good
+Bad
+Good
+
+3231797166716086675	Albert	1/22/06	Robert	28487 Lehua Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086676	Harry	1/22/06	Jessica	28464 Mesquite Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086677	Cathy	1/22/06	Robert	4886 Hill Spring Field, New Cicily
+Ugly
+
+3231797166716086678	Dominic	1/22/06	Jessica	12522 Eighth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086679	Phyllis	1/22/06	Robert	23735 Kansas Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086680	Randy	1/22/06	Terrence	2695 Pioneer Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086681	Dylan	1/22/06	Robert	13510 Lake Spring Field, New Cicily
+Ugly
+
+3231797166716086682	Sierra	1/22/06	Evelyn	5653 Williams Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Ugly
+
+3231797166716086683	Barry	1/22/06	Alan	10308 Bay Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086684	Sandra	1/22/06	Alan	15986 West Spring Field, New Cicily
+Good
+Good
+
+3231797166716086685	Robert	1/22/06	Joseph	21780 Bay Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086686	Catherine	1/22/06	Liliana	12082 Wilson Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086687	Marcus	1/22/06	Joseph	10205 Highland Spring Field, New Cicily
+Ugly
+Good
+Bad
+Ugly
+
+3231797166716086688	Alicia	1/22/06	Sam	1885 Sixth Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086689	Erin	1/22/06	Robert	24359 Jackson Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086690	Kiara	1/22/06	Liliana	17629 Walnut Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086691	Dennis	1/22/06	Liliana	11440 Tenth Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086692	Dana	1/22/06	Joseph	29915 Ridge Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086693	Ruben	1/22/06	Jessica	9648 Ridge Spring Field, New Cicily
+Ugly
+Good
+Bad
+Good
+
+3231797166716086694	Julia	1/22/06	Sam	14433 Sycamore Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086695	Miguel	1/22/06	Evelyn	24758 Ninth Spring Field, New Cicily
+Bad
+
+3231797166716086696	Derek	1/22/06	Sam	25251 Airport Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+Ugly
+
+3231797166716086697	Arthur	1/22/06	Sam	29188 Main Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086698	Jeremy	1/22/06	Terrence	10506 S 400 Spring Field, New Cicily
+Good
+
+3231797166716086699	Stella	1/22/06	Joseph	29338 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086700	Jayden	1/22/06	Evelyn	15047 S 100 Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086701	Roberta	1/22/06	Liliana	8341 Thirteenth Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086702	Audrey	1/22/06	Sam	26703 Eleventh Spring Field, New Cicily
+Good
+
+3231797166716086703	Barbara	1/22/06	Joseph	8247 Quail Spring Field, New Cicily
+Good
+
+3231797166716086704	Adrianna	1/22/06	Alan	6393 Redwood Spring Field, New Cicily
+Good
+Good
+
+3231797166716086705	Jerome	1/22/06	Liliana	5550 Laurel Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086706	Gary	1/22/06	Robert	20553 Meadow Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086707	Howard	1/22/06	Jessica	19280 Johnson Spring Field, New Cicily
+Ugly
+
+3231797166716086708	Lynn	1/22/06	Evelyn	25300 Wood Spring Field, New Cicily
+Ugly
+
+3231797166716086709	Terry	1/22/06	Alan	16395 Walnut Spring Field, New Cicily
+Bad
+
+3231797166716086710	Steve	1/22/06	Jessica	8986 Willow Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086711	Sean	1/22/06	Sam	9458 Orchard Spring Field, New Cicily
+Bad
+Bad
+Bad
+Ugly
+
+3231797166716086712	William	1/23/06	Liliana	26681 Kukui Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086713	Brandon	1/23/06	Joseph	23550 Broadway Spring Field, New Cicily
+Good
+
+3231797166716086714	Henry	1/23/06	Terrence	22322 Fifth Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086715	Danny	1/23/06	Robert	28106 Sixth Spring Field, New Cicily
+Good
+
+3231797166716086716	Edward	1/23/06	Alan	28284 Lee Spring Field, New Cicily
+Good
+
+3231797166716086717	Billie	1/23/06	Sam	1377 Juniper Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086718	Lee	1/23/06	Alan	5524 Williams Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086719	Eddie	1/23/06	Terrence	3623 Elm Spring Field, New Cicily
+Bad
+Good
+Good
+Good
+
+3231797166716086720	Lynn	1/23/06	Caleb	8288 Eighth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086721	Sergio	1/23/06	Evelyn	2437 Mountain View Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086722	Theresa	1/23/06	Sam	26458 Columbine Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086723	Brendan	1/23/06	Robert	15277 Shore Spring Field, New Cicily
+Bad
+
+3231797166716086724	Lindsay	1/23/06	Robert	26768 Aspen Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086725	Cesar	1/23/06	Caleb	13702 Bay Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086726	Renee	1/23/06	Alan	27449 Canyon Spring Field, New Cicily
+Ugly
+
+3231797166716086727	Erin	1/23/06	Alan	23100 Navajo Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086728	Sidney	1/23/06	Liliana	5855 Cypress Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086729	Madison	1/23/06	Joseph	15086 Hill Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086730	Diane	1/23/06	Joseph	9908 Fifth Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086731	Pedro	1/23/06	Terrence	10150 Narragansett Spring Field, New Cicily
+Good
+
+3231797166716086732	Melissa	1/23/06	Sam	24157 West Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Good
+
+3231797166716086733	Alicia	1/23/06	Robert	1885 Sixth Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086734	Gregory	1/23/06	Caleb	9535 Aloha Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086735	Jimmy	1/23/06	Evelyn	2928 First Spring Field, New Cicily
+Bad
+
+3231797166716086736	Manuel	1/23/06	Evelyn	375 Narragansett Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086737	Darrell	1/23/06	Terrence	29901 Juniper Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086738	Randall	1/23/06	Caleb	11471 Malulani Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086739	Kim	1/23/06	Liliana	6376 Aloha Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086740	Jeremiah	1/23/06	Terrence	8709 Apache Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086741	Jim	1/23/06	Caleb	5419 Walnut Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086742	Patty	1/23/06	Joseph	15004 Pine Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086743	Sally	1/23/06	Terrence	15894 N 400 Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086744	Norman	1/23/06	Alan	13231 Cherry Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086745	Devin	1/23/06	Terrence	29914 Elm Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086746	Howard	1/23/06	Evelyn	15499 Columbine Spring Field, New Cicily
+Good
+
+3231797166716086747	Caroline	1/23/06	Alan	15902 Apache Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086748	Brian	1/23/06	Alan	11961 A Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086749	Colin	1/23/06	Caleb	806 Fifth Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086750	Jo	1/23/06	Evelyn	27733 Main Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086751	Kimberly	1/23/06	Caleb	25015 Airport Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086752	Tyrone	1/23/06	Alan	7067 Navajo Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086753	Tonya	1/23/06	Terrence	1678 Maple Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086754	Duane	1/23/06	Caleb	13961 Main Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086755	April	1/23/06	Joseph	27802 Canyon Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086756	Louis	1/23/06	Alan	3632 Seventh Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086757	Whitney	1/23/06	Caleb	19684 Oak Spring Field, New Cicily
+Ugly
+
+3231797166716086758	Karen	1/23/06	Alan	4262 Third Spring Field, New Cicily
+Good
+Good
+Good
+Ugly
+
+3231797166716086759	Caleb	1/23/06	Joseph	3937 Kansas Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086760	Sharon	1/23/06	Sam	20453 Pleasant Spring Field, New Cicily
+Bad
+
+3231797166716086761	Kurt	1/24/06	Caleb	3560 Hampton Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086762	Sheila	1/24/06	Evelyn	8037 Redwood Spring Field, New Cicily
+Good
+Good
+
+3231797166716086763	Gabriela	1/24/06	Kelly	3989 Thirteenth Spring Field, New Cicily
+Good
+
+3231797166716086764	Bradley	1/24/06	Caleb	20589 Jackson Spring Field, New Cicily
+Good
+Good
+Good
+Good
+
+3231797166716086765	James	1/24/06	Joseph	15566 County Line Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086766	Tony	1/24/06	Alan	21762 Willow Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086767	Ashley	1/24/06	Terrence	3025 Maple Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086768	Alexandria	1/24/06	Joseph	24809 Hampton Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086769	Jenna	1/24/06	Sam	24841 Twelfth Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086770	Caitlin	1/24/06	Caleb	17470 Ridge Spring Field, New Cicily
+Good
+Good
+
+3231797166716086771	Joel	1/24/06	Liliana	7186 N 400 Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086772	Eddie	1/24/06	Kelly	1441 Seventh Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086773	Samuel	1/24/06	Terrence	8473 Lehua Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086774	Bernard	1/24/06	Liliana	16000 Spruce Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086775	Veronica	1/24/06	Terrence	827 Cherry Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086776	Gregory	1/24/06	Sam	1 Cottonwood Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086777	Ariel	1/24/06	Sam	20049 Orchard Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086778	Evelyn	1/24/06	Kelly	2764 Cherry Spring Field, New Cicily
+Ugly
+
+3231797166716086779	Jesse	1/24/06	Terrence	11443 Lakeview Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086780	Erin	1/24/06	Joseph	17421 Pioneer Spring Field, New Cicily
+Ugly
+
+3231797166716086781	Kenneth	1/24/06	Liliana	4856 Broadway Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086782	Kathy	1/24/06	Kelly	22557 Aloha Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086783	Jeffery	1/24/06	Sam	16894 Maple Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086784	Derrick	1/24/06	Kelly	23908 Apache Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086785	Hector	1/24/06	Kelly	20511 Willow Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086786	Toni	1/24/06	Sam	5508 Seventh Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Good
+
+3231797166716086787	Mark	1/24/06	Evelyn	29243 Sixth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086788	Sheena	1/24/06	Sam	8078 Lakeview Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086789	Haley	1/24/06	Joseph	1433 Wood Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086790	Alejandra	1/24/06	Joseph	25170 Third Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086791	Catherine	1/24/06	Joseph	6792 Wilson Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086792	Rosemary	1/24/06	Joseph	24597 N 400 Spring Field, New Cicily
+Good
+
+3231797166716086793	Dwight	1/24/06	Alan	28596 Laurel Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086794	Bruce	1/24/06	Terrence	16068 Laurel Spring Field, New Cicily
+Ugly
+
+3231797166716086795	Yvonne	1/24/06	Alan	1896 Kahili Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086796	Faith	1/24/06	Caleb	18028 A Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086797	Darlene	1/24/06	Liliana	18837 Main Spring Field, New Cicily
+Good
+
+3231797166716086798	Deborah	1/24/06	Caleb	8480 Fourth Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086799	Dakota	1/24/06	Caleb	20240 Highland Spring Field, New Cicily
+Good
+
+3231797166716086800	Jimmy	1/24/06	Joseph	11183 Washington Spring Field, New Cicily
+Bad
+
+3231797166716086801	Kristen	1/24/06	Joseph	14717 Redwood Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086802	Brian	1/24/06	Terrence	15445 Lake Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086803	Johnny	1/24/06	Evelyn	10293 First Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086804	Ernest	1/24/06	Evelyn	3438 Malulani Spring Field, New Cicily
+Ugly
+
+3231797166716086805	Jaclyn	1/24/06	Terrence	12273 Park Spring Field, New Cicily
+Ugly
+Good
+Good
+Bad
+
+3231797166716086806	Steve	1/24/06	Caleb	12977 Aspen Spring Field, New Cicily
+Good
+Good
+
+3231797166716086807	Jerry	1/24/06	Joseph	18597 Orchard Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086808	Emily	1/24/06	Alan	4376 Walnut Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086809	Shane	1/24/06	Alan	15185 Washington Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086810	Katherine	1/24/06	Evelyn	28160 Lake Spring Field, New Cicily
+Ugly
+Good
+Good
+Good
+
+3231797166716086811	Sara	1/25/06	Caleb	26918 Elm Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086812	Bryan	1/25/06	Alan	5510 County Line Spring Field, New Cicily
+Ugly
+Good
+Ugly
+Ugly
+
+3231797166716086813	Anthony	1/25/06	Terrence	28381 Mountain View Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086814	Nathaniel	1/25/06	Evelyn	19891 Walnut Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086815	Natasha	1/25/06	Kelly	16356 Park Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086816	Karl	1/25/06	Jeanne	19630 Kukui Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086817	Jane	1/25/06	Kelly	18022 Pine Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086818	Amanda	1/25/06	Evelyn	4005 Kukui Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086819	Max	1/25/06	Alan	22681 Lehua Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086820	Tyler	1/25/06	Liliana	9667 Juniper Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086821	Alan	1/25/06	Alan	15166 Willow Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086822	Edwin	1/25/06	Alan	14102 Redwood Spring Field, New Cicily
+Bad
+Good
+Good
+Bad
+
+3231797166716086823	Yolanda	1/25/06	Terrence	1879 Cherry Spring Field, New Cicily
+Ugly
+Good
+Bad
+Ugly
+
+3231797166716086824	Manuel	1/25/06	Alan	25235 Juniper Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086825	Chad	1/25/06	Evelyn	22790 Holly Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086826	Jacob	1/25/06	Caleb	26277 Meadow Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086827	Liliana	1/25/06	Caleb	26413 Birch Spring Field, New Cicily
+Ugly
+
+3231797166716086828	Michelle	1/25/06	Evelyn	20744 Fourth Spring Field, New Cicily
+Good
+Good
+
+3231797166716086829	Charles	1/25/06	Evelyn	14866 Juniper Spring Field, New Cicily
+Bad
+Good
+Good
+Good
+
+3231797166716086830	Austin	1/25/06	Caleb	16247 Tenth Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086831	Micheal	1/25/06	Evelyn	7259 Columbine Spring Field, New Cicily
+Ugly
+
+3231797166716086832	Micheal	1/25/06	Liliana	14499 Lake Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086833	Ariel	1/25/06	Alan	27055 Malulani Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086834	Felicia	1/25/06	Liliana	11204 Church Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086835	Wayne	1/25/06	Liliana	8509 Twelfth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086836	Josephine	1/25/06	Jeanne	27453 Aspen Spring Field, New Cicily
+Ugly
+
+3231797166716086837	Theodore	1/25/06	Kelly	21408 Church Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716086838	Philip	1/25/06	Evelyn	9316 Twelfth Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086839	Randall	1/25/06	Jeanne	1313 Fourth Spring Field, New Cicily
+Ugly
+
+3231797166716086840	Anne	1/25/06	Evelyn	17347 Thirteenth Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086841	Vera	1/25/06	Terrence	21101 Johnson Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086842	Carrie	1/25/06	Liliana	23198 Aloha Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086843	Earnest	1/25/06	Liliana	14932 Willow Spring Field, New Cicily
+Bad
+
+3231797166716086844	Alan	1/25/06	Caleb	21180 Wilson Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086845	John	1/25/06	Alan	8368 Magnolia Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086846	Duane	1/25/06	Evelyn	11800 Sycamore Spring Field, New Cicily
+Good
+
+3231797166716086847	Stanley	1/25/06	Kelly	4054 Aspen Spring Field, New Cicily
+Bad
+Good
+Ugly
+Ugly
+
+3231797166716086848	Sarah	1/25/06	Liliana	12354 Highland Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086849	Maria	1/25/06	Joseph	14347 Lincoln Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086850	Gene	1/25/06	Alan	12398 Lake Spring Field, New Cicily
+Bad
+
+3231797166716086851	Lily	1/25/06	Evelyn	21065 Highland Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086852	Leonard	1/25/06	Jeanne	11796 Evergreen Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086853	Sherry	1/25/06	Joseph	5281 Ridge Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Bad
+
+3231797166716086854	Patty	1/25/06	Joseph	19261 Park Spring Field, New Cicily
+Good
+
+3231797166716086855	Roger	1/25/06	Evelyn	22773 Hickory Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716086856	Clifford	1/25/06	Kelly	11796 Hillside Spring Field, New Cicily
+Good
+
+3231797166716086857	Theodore	1/26/06	Evelyn	29575 S 100 Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086858	Amy	1/26/06	Joseph	23003 Fifth Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086859	Bobby	1/26/06	Alan	22579 Lincoln Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086860	Janis	1/26/06	Joseph	23976 First Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086861	Raymond	1/26/06	Jeanne	13636 Mesquite Spring Field, New Cicily
+Good
+
+3231797166716086862	Renee	1/26/06	Evelyn	17643 Oak Spring Field, New Cicily
+Good
+Good
+
+3231797166716086863	Toni	1/26/06	Joseph	28588 Jackson Spring Field, New Cicily
+Good
+
+3231797166716086864	Craig	1/26/06	Caleb	27770 Lake Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086865	Jeremy	1/26/06	Terrence	12037 Smith Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086866	Antonio	1/26/06	Alan	16317 Mountain View Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086867	Kent	1/26/06	Joseph	11236 Pleasant Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086868	Kathy	1/26/06	Joseph	7217 Quail Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086869	Duane	1/26/06	Joseph	3248 Hillside Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086870	Jesse	1/26/06	Alan	11443 Lakeview Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086871	Cristian	1/26/06	Terrence	1749 Mountain View Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086872	Sarah	1/26/06	Jeanne	22972 Navajo Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086873	William	1/26/06	Caleb	24653 N 400 Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086874	Billy	1/26/06	Liliana	29044 Smith Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086875	Cynthia	1/26/06	Liliana	6635 Dogwood Spring Field, New Cicily
+Ugly
+
+3231797166716086876	Rhonda	1/26/06	Evelyn	17412 Eleventh Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086877	Tommy	1/26/06	Jeanne	3577 Main Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Good
+
+3231797166716086878	Gordon	1/26/06	Lauren	20584 Bay Spring Field, New Cicily
+Good
+
+3231797166716086879	Delores	1/26/06	Terrence	12043 S 400 Spring Field, New Cicily
+Bad
+
+3231797166716086880	Ronnie	1/26/06	Lauren	26723 S 400 Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716086881	Sherri	1/26/06	Liliana	5261 Elm Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086882	Jane	1/26/06	Lauren	9499 Navajo Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086883	Ronald	1/26/06	Liliana	29679 Magnolia Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086884	Wendy	1/26/06	Caleb	22626 Airport Spring Field, New Cicily
+Ugly
+
+3231797166716086885	Sara	1/26/06	Liliana	10264 Oak Spring Field, New Cicily
+Ugly
+
+3231797166716086886	Sam	1/26/06	Jeanne	6008 Sunset Spring Field, New Cicily
+Good
+Bad
+Bad
+Good
+
+3231797166716086887	Jorge	1/26/06	Liliana	9081 Church Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086888	Yesenia	1/26/06	Jeanne	26404 County Line Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086889	Michael	1/26/06	Jeanne	8464 Mesquite Spring Field, New Cicily
+Ugly
+
+3231797166716086890	Brandon	1/26/06	Terrence	14336 Hampton Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086891	Alejandro	1/26/06	Lauren	25043 Magnolia Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086892	Jose	1/26/06	Caleb	20409 Aloha Spring Field, New Cicily
+Good
+
+3231797166716086893	Jacob	1/26/06	Jeanne	9207 Kukui Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086894	Gary	1/26/06	Evelyn	20553 Meadow Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086895	Jacob	1/26/06	Caleb	10227 Thirteenth Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Good
+
+3231797166716086896	Delaney	1/26/06	Joseph	22196 Navajo Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086897	Constance	1/26/06	Caleb	12437 Pioneer Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086898	Brittany	1/26/06	Alan	14977 Hickory Spring Field, New Cicily
+Bad
+
+3231797166716086899	Alan	1/26/06	Alan	10746 Navajo Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086900	Frederick	1/26/06	Alan	4718 Sixth Spring Field, New Cicily
+Bad
+
+3231797166716086901	Madison	1/27/06	Joseph	9406 Kansas Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086902	Raymond	1/27/06	Joseph	27211 Second Spring Field, New Cicily
+Bad
+
+3231797166716086903	Anna	1/27/06	Jeanne	11002 West Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086904	Anthony	1/27/06	Joseph	26861 Willow Spring Field, New Cicily
+Good
+Bad
+Good
+Ugly
+
+3231797166716086905	Natasha	1/27/06	Liliana	13936 Pioneer Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716086906	Albert	1/27/06	Terrence	28487 Lehua Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086907	Daniel	1/27/06	Liliana	29075 Juniper Spring Field, New Cicily
+Good
+
+3231797166716086908	Mikayla	1/27/06	Liliana	19339 Kansas Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086909	Jenna	1/27/06	Terrence	23629 Center Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086910	Gary	1/27/06	Caleb	1134 Hampton Spring Field, New Cicily
+Bad
+Bad
+Ugly
+
+3231797166716086911	Deborah	1/27/06	Jeanne	22086 Sycamore Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086912	Kimberly	1/27/06	Caleb	27105 Magnolia Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086913	Cory	1/27/06	Lauren	3087 Juniper Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086914	Theresa	1/27/06	Stacy	11202 Johnson Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086915	Lindsay	1/27/06	Jeanne	16386 Pioneer Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086916	Lee	1/27/06	Joseph	22671 Redwood Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086917	Madison	1/27/06	Liliana	15086 Hill Spring Field, New Cicily
+Good
+
+3231797166716086918	Vanessa	1/27/06	Stacy	16504 Cypress Spring Field, New Cicily
+Bad
+
+3231797166716086919	Traci	1/27/06	Stacy	11052 Redwood Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716086920	Marsha	1/27/06	Liliana	16218 Magnolia Spring Field, New Cicily
+Bad
+Good
+
+3231797166716086921	Dave	1/27/06	Caleb	5368 Ninth Spring Field, New Cicily
+Good
+Good
+
+3231797166716086922	Bruce	1/27/06	Jeanne	4608 Cottonwood Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086923	Jimmy	1/27/06	Liliana	2928 First Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086924	Craig	1/27/06	Caleb	3664 Kansas Spring Field, New Cicily
+Bad
+Good
+Bad
+Good
+
+3231797166716086925	Rachael	1/27/06	Liliana	1743 West Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086926	Peggy	1/27/06	Terrence	25337 Pleasant Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716086927	Shelley	1/27/06	Lauren	24916 Cherry Spring Field, New Cicily
+Ugly
+
+3231797166716086928	Jay	1/27/06	Liliana	20344 Quail Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086929	Tammy	1/27/06	Stacy	12301 Hill Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716086930	Harry	1/27/06	Alan	4702 Jackson Spring Field, New Cicily
+Ugly
+
+3231797166716086931	Ronald	1/27/06	Stacy	12138 Lee Spring Field, New Cicily
+Good
+Good
+
+3231797166716086932	Travis	1/27/06	Caleb	15932 Evergreen Spring Field, New Cicily
+Good
+Good
+
+3231797166716086933	Collin	1/27/06	Joseph	26295 Johnson Spring Field, New Cicily
+Bad
+
+3231797166716086934	Ronald	1/27/06	Stacy	29679 Magnolia Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086935	Kylie	1/27/06	Alan	23371 Hampton Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716086936	Linda	1/27/06	Stacy	21384 Aspen Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086937	Kristy	1/27/06	Liliana	2139 Third Spring Field, New Cicily
+Good
+
+3231797166716086938	Rhonda	1/27/06	Alan	17602 Ridge Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086939	John	1/27/06	Lauren	16384 Seventh Spring Field, New Cicily
+Ugly
+
+3231797166716086940	Kelly	1/27/06	Stacy	5823 Magnolia Spring Field, New Cicily
+Good
+
+3231797166716086941	Bobby	1/27/06	Terrence	8867 Williams Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086942	Christopher	1/27/06	Stacy	10194 River Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086943	Wesley	1/27/06	Jeanne	7502 Walnut Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716086944	Kaitlyn	1/27/06	Stacy	9290 S 100 Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086945	Gilbert	1/27/06	Joseph	12655 Bay Spring Field, New Cicily
+Good
+Ugly
+Good
+
+3231797166716086946	Mario	1/27/06	Terrence	11708 Ninth Spring Field, New Cicily
+Good
+
+3231797166716086947	Sherry	1/27/06	Caleb	25178 Main Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716086948	Vincent	1/27/06	Joseph	13694 Evergreen Spring Field, New Cicily
+Good
+Ugly
+Bad
+Ugly
+
+3231797166716086949	Stuart	1/27/06	Jeanne	16096 Laurel Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716086950	Rodney	1/28/06	Stacy	27799 Ninth Spring Field, New Cicily
+Ugly
+
+3231797166716086951	Frederick	1/28/06	Caleb	12650 Center Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086952	Laura	1/28/06	Lauren	1243 Third Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716086953	Douglas	1/28/06	Jeanne	1390 Maple Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086954	Sheryl	1/28/06	Caleb	11933 Airport Spring Field, New Cicily
+Ugly
+
+3231797166716086955	Keith	1/28/06	Liliana	14897 Maple Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086956	Kenneth	1/28/06	Phyllis	1014 Willow Spring Field, New Cicily
+Bad
+
+3231797166716086957	Jorge	1/28/06	Lauren	16204 S 100 Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086958	Teresa	1/28/06	Caleb	26532 Mountain View Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716086959	Dorothy	1/28/06	Liliana	16236 Kahili Spring Field, New Cicily
+Good
+
+3231797166716086960	Patrick	1/28/06	Jeanne	16530 Redwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086961	Diana	1/28/06	Caleb	20704 County Line Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086962	Jeremy	1/28/06	Joseph	9661 County Line Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086963	Kelsey	1/28/06	Lauren	7916 Orchard Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716086964	Alicia	1/28/06	Lauren	24365 Sycamore Spring Field, New Cicily
+Good
+Good
+
+3231797166716086965	Wayne	1/28/06	Caleb	1674 Pecan Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716086966	Julia	1/28/06	Caleb	27619 Lee Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716086967	Tracey	1/28/06	Joseph	9332 First Spring Field, New Cicily
+Good
+Good
+
+3231797166716086968	Randall	1/28/06	Jeanne	26236 Kansas Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+
+3231797166716086969	Shirley	1/28/06	Stacy	14741 Sunset Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086970	Alejandro	1/28/06	Joseph	29539 First Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716086971	Tiffany	1/28/06	Lauren	22185 Wood Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086972	Leroy	1/28/06	Phyllis	29605 Wilson Spring Field, New Cicily
+Bad
+
+3231797166716086973	Robert	1/28/06	Alan	27790 Pecan Spring Field, New Cicily
+Ugly
+
+3231797166716086974	Cynthia	1/28/06	Alan	6635 Dogwood Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086975	Rita	1/28/06	Caleb	15116 Tenth Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086976	Molly	1/28/06	Liliana	13974 Maple Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086977	Jeanette	1/28/06	Liliana	25540 Canyon Spring Field, New Cicily
+Good
+Good
+Bad
+
+3231797166716086978	Wanda	1/28/06	Phyllis	28265 Magnolia Spring Field, New Cicily
+Good
+
+3231797166716086979	Joseph	1/28/06	Joseph	29626 Fifth Spring Field, New Cicily
+Good
+Good
+
+3231797166716086980	Kylie	1/28/06	Stacy	23371 Hampton Spring Field, New Cicily
+Bad
+
+3231797166716086981	Tony	1/28/06	Lauren	5624 Main Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716086982	Brian	1/28/06	Jeanne	17230 Lehua Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716086983	Sandra	1/28/06	Jeanne	13106 Hillside Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716086984	Michael	1/28/06	Stacy	8464 Mesquite Spring Field, New Cicily
+Ugly
+
+3231797166716086985	Grace	1/28/06	Caleb	24791 Hampton Spring Field, New Cicily
+Ugly
+
+3231797166716086986	Jade	1/28/06	Phyllis	22371 County Line Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716086987	Daisy	1/28/06	Phyllis	6827 Delaware Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716086988	Tonya	1/28/06	Caleb	1678 Maple Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716086989	Norman	1/28/06	Liliana	27936 Main Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086990	Roger	1/28/06	Joseph	27259 Third Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716086991	Molly	1/28/06	Caleb	28147 Evergreen Spring Field, New Cicily
+Good
+Bad
+
+3231797166716086992	Sally	1/28/06	Stacy	25943 Jackson Spring Field, New Cicily
+Ugly
+Good
+Good
+
+3231797166716086993	Yvonne	1/28/06	Liliana	7267 North Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716086994	Trinity	1/28/06	Jeanne	25181 Johnson Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716086995	Dennis	1/28/06	Phyllis	14507 Evergreen Spring Field, New Cicily
+Bad
+
+3231797166716086996	Thelma	1/28/06	Lauren	26402 Ridge Spring Field, New Cicily
+Bad
+Bad
+Bad
+Ugly
+
+3231797166716086997	Daniel	1/28/06	Phyllis	7667 Shore Spring Field, New Cicily
+Good
+Good
+
+3231797166716086998	Javier	1/28/06	Jeanne	1726 Aspen Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716086999	Scott	1/28/06	Jeanne	25823 Jackson Spring Field, New Cicily
+Good
+
+3231797166716087000	Jerome	1/28/06	Joseph	10204 Smith Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716087001	Ernest	1/28/06	Liliana	262 Williams Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087002	Samuel	1/28/06	Phyllis	3936 Williams Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087003	Shane	1/28/06	Jeanne	15185 Washington Spring Field, New Cicily
+Bad
+
+3231797166716087004	Grant	1/28/06	Joseph	7388 Hillside Spring Field, New Cicily
+Good
+Good
+
+3231797166716087005	Billy	1/28/06	Caleb	4764 North Spring Field, New Cicily
+Bad
+
+3231797166716087006	Tony	1/28/06	Alan	7771 Ninth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087007	Cheryl	1/29/06	Joseph	11928 Aloha Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087008	Levi	1/29/06	Phyllis	5848 Cottonwood Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
+3231797166716087009	Dean	1/29/06	Lauren	25162 First Spring Field, New Cicily
+Bad
+
+3231797166716087010	Emily	1/29/06	Liliana	11911 Wilson Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087011	Patricia	1/29/06	Liliana	10344 S 100 Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716087012	Oscar	1/29/06	Jeanne	20364 Hill Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087013	Andres	1/29/06	Liliana	12042 Lehua Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087014	Tamara	1/29/06	Liliana	9781 Cedar Spring Field, New Cicily
+Bad
+
+3231797166716087015	Gordon	1/29/06	Liliana	3944 Hillside Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716087016	Patty	1/29/06	Caleb	27144 Pecan Spring Field, New Cicily
+Bad
+
+3231797166716087017	Kerri	1/29/06	Joseph	11125 Eighth Spring Field, New Cicily
+Bad
+Good
+
+3231797166716087018	Frederick	1/29/06	Stacy	29475 Hampton Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716087019	Stephen	1/29/06	Lauren	20339 Sunset Spring Field, New Cicily
+Good
+Bad
+
+3231797166716087020	Cesar	1/29/06	Alan	22667 Dogwood Spring Field, New Cicily
+Bad
+
+3231797166716087021	Morgan	1/29/06	Stacy	5787 Hickory Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716087022	Leo	1/29/06	Jeanne	10825 Magnolia Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087023	Jillian	1/29/06	Liliana	17096 Ridge Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716087024	Bryan	1/29/06	Jeanne	13995 Apache Spring Field, New Cicily
+Good
+Good
+Good
+
+3231797166716087025	Rachel	1/29/06	Caleb	12942 Center Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716087026	Shirley	1/29/06	Alan	14741 Sunset Spring Field, New Cicily
+Good
+Ugly
+Good
+Ugly
+
+3231797166716087027	Mathew	1/29/06	Lauren	19084 Second Spring Field, New Cicily
+Bad
+
+3231797166716087028	Gabrielle	1/29/06	Phyllis	29470 Jackson Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716087029	Valerie	1/29/06	Lauren	16881 Cherry Spring Field, New Cicily
+Good
+
+3231797166716087030	Janice	1/29/06	Lauren	29458 Mountain View Spring Field, New Cicily
+Bad
+
+3231797166716087031	Randy	1/29/06	Lauren	13190 Lehua Spring Field, New Cicily
+Ugly
+Ugly
+Good
+
+3231797166716087032	Tiffany	1/29/06	Joseph	17101 Hemlock Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087033	Ivan	1/29/06	Stacy	27535 Main Spring Field, New Cicily
+Good
+Bad
+Ugly
+
+3231797166716087034	Aaron	1/29/06	Joseph	24186 Shore Spring Field, New Cicily
+Bad
+Ugly
+Bad
+Good
+
+3231797166716087035	Joseph	1/29/06	Stacy	1105 Sixth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087036	Benjamin	1/29/06	Jeanne	12630 S 400 Spring Field, New Cicily
+Good
+Bad
+
+3231797166716087037	Isabel	1/29/06	Caleb	20007 Ridge Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087038	Jon	1/29/06	Stacy	7419 Wilson Spring Field, New Cicily
+Good
+
+3231797166716087039	Jon	1/29/06	Alan	26745 Pleasant Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087040	Herbert	1/29/06	Phyllis	22601 Lakeview Spring Field, New Cicily
+Good
+Good
+
+3231797166716087041	James	1/29/06	Liliana	27076 A Spring Field, New Cicily
+Bad
+Good
+Ugly
+
+3231797166716087042	Robin	1/29/06	Liliana	24356 Elm Spring Field, New Cicily
+Ugly
+
+3231797166716087043	Trinity	1/29/06	Caleb	25181 Johnson Spring Field, New Cicily
+Ugly
+
+3231797166716087044	Claudia	1/29/06	Liliana	3210 Wilson Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716087045	Sherry	1/29/06	Lauren	5281 Ridge Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087046	Ernest	1/29/06	Stacy	816 Mountain View Spring Field, New Cicily
+Bad
+
+3231797166716087047	Cindy	1/29/06	Phyllis	25740 Broadway Spring Field, New Cicily
+Ugly
+
+3231797166716087048	Tony	1/29/06	Liliana	786 Eighth Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087049	Douglas	1/29/06	Alan	25674 Spruce Spring Field, New Cicily
+Bad
+
+3231797166716087050	Ava	1/29/06	Caleb	18545 Delaware Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716087051	Melvin	1/29/06	Stacy	24533 Malulani Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716087052	Ellie	1/30/06	Caleb	1925 Walnut Spring Field, New Cicily
+Ugly
+Bad
+Good
+Good
+
+3231797166716087053	Jacqueline	1/30/06	Liliana	3950 Oak Spring Field, New Cicily
+Bad
+
+3231797166716087054	Jean	1/30/06	Alan	13432 Sycamore Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716087055	Darlene	1/30/06	Stacy	6752 Cedar Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716087056	Steve	1/30/06	Jeanne	5184 Jackson Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716087057	Douglas	1/30/06	Alan	10655 Twelfth Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087058	Patty	1/30/06	Caleb	27144 Pecan Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087059	Kyle	1/30/06	Stacy	3462 Highland Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716087060	Mitchell	1/30/06	Stacy	269 West Spring Field, New Cicily
+Bad
+Ugly
+Good
+Bad
+
+3231797166716087061	Stephen	1/30/06	Jorge	3586 Holly Spring Field, New Cicily
+Ugly
+
+3231797166716087062	Neil	1/30/06	Alan	23232 Thirteenth Spring Field, New Cicily
+Good
+
+3231797166716087063	Cecil	1/30/06	Stacy	17780 Dogwood Spring Field, New Cicily
+Ugly
+Good
+Ugly
+
+3231797166716087064	William	1/30/06	Jeanne	3587 Pioneer Spring Field, New Cicily
+Good
+Good
+
+3231797166716087065	Willie	1/30/06	Liliana	19549 Ninth Spring Field, New Cicily
+Ugly
+
+3231797166716087066	Jerry	1/30/06	Liliana	17997 Hill Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716087067	Charlotte	1/30/06	Jorge	874 Malulani Spring Field, New Cicily
+Bad
+Good
+Good
+
+3231797166716087068	Christy	1/30/06	Lauren	26026 Spruce Spring Field, New Cicily
+Good
+Good
+Bad
+Good
+
+3231797166716087069	Aimee	1/30/06	Alan	13091 Washington Spring Field, New Cicily
+Good
+Bad
+Bad
+
+3231797166716087070	Thomas	1/30/06	Lauren	18239 Tenth Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716087071	Ethan	1/30/06	Alan	2979 Pinon Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087072	Dawn	1/30/06	Alan	4705 Hill Spring Field, New Cicily
+Good
+Good
+
+3231797166716087073	Lillian	1/30/06	Liliana	4778 Dogwood Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087074	Richard	1/30/06	Caleb	15991 Orchard Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716087075	Hannah	1/30/06	Caleb	13370 Williams Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087076	Gabriella	1/30/06	Lauren	25606 Lee Spring Field, New Cicily
+Good
+Good
+
+3231797166716087077	Ronald	1/30/06	Jeanne	20040 Narragansett Spring Field, New Cicily
+Bad
+Bad
+Good
+
+3231797166716087078	Robert	1/30/06	Caleb	23545 Bay Spring Field, New Cicily
+Bad
+Good
+
+3231797166716087079	Joel	1/30/06	Joseph	17837 Sycamore Spring Field, New Cicily
+Bad
+Good
+Ugly
+Bad
+
+3231797166716087080	Alexander	1/30/06	Jeanne	16420 Shore Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087081	Louis	1/30/06	Joseph	3971 S 400 Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+Ugly
+
+3231797166716087082	Amy	1/30/06	Jeanne	14767 Mountain View Spring Field, New Cicily
+Bad
+Ugly
+Bad
+
+3231797166716087083	Sylvia	1/30/06	Liliana	8198 Park Spring Field, New Cicily
+Bad
+
+3231797166716087084	Erin	1/30/06	Liliana	9838 Church Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087085	Jeffrey	1/30/06	Caleb	21029 Smith Spring Field, New Cicily
+Good
+Good
+Ugly
+
+3231797166716087086	Jonathan	1/30/06	Jorge	9225 Airport Spring Field, New Cicily
+Bad
+Bad
+
+3231797166716087087	Earnest	1/30/06	Caleb	14932 Willow Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087088	Stephen	1/30/06	Jorge	4573 Johnson Spring Field, New Cicily
+Good
+
+3231797166716087089	Curtis	1/30/06	Lauren	136 Second Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716087090	Jasmin	1/30/06	Liliana	13783 North Spring Field, New Cicily
+Good
+Bad
+
+3231797166716087091	Johnny	1/30/06	Caleb	3680 Seventh Spring Field, New Cicily
+Ugly
+Bad
+Ugly
+
+3231797166716087092	Mason	1/30/06	Joseph	2389 Orchard Spring Field, New Cicily
+Bad
+
+3231797166716087093	Misty	1/30/06	Liliana	4718 Pioneer Spring Field, New Cicily
+Bad
+
+3231797166716087094	Gail	1/30/06	Stacy	25050 Hill Spring Field, New Cicily
+Good
+
+3231797166716087095	Allison	1/30/06	Stacy	6596 First Spring Field, New Cicily
+Ugly
+Good
+Bad
+Bad
+
+3231797166716087096	Christian	1/30/06	Caleb	7551 Cedar Spring Field, New Cicily
+Bad
+
+3231797166716087097	Christina	1/30/06	Liliana	1201 River Spring Field, New Cicily
+Bad
+
+3231797166716087098	Harold	1/30/06	Jeanne	19103 Twelfth Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087099	Monica	1/30/06	Liliana	32 Hampton Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087100	Julie	1/30/06	Stacy	7798 Second Spring Field, New Cicily
+Bad
+Ugly
+Ugly
+Ugly
+
+3231797166716087101	Tamara	1/30/06	Alan	27064 Sixth Spring Field, New Cicily
+Good
+
+3231797166716087102	Raymond	1/31/06	Jorge	27211 Second Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087103	Francis	1/31/06	Caleb	12447 River Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087104	Sherry	1/31/06	Lauren	15666 Quail Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087105	Brody	1/31/06	Stacy	1925 Spruce Spring Field, New Cicily
+Ugly
+Bad
+Bad
+
+3231797166716087106	Kyle	1/31/06	Stacy	6995 Evergreen Spring Field, New Cicily
+Ugly
+Bad
+
+3231797166716087107	Milton	1/31/06	Caleb	26504 Spruce Spring Field, New Cicily
+Ugly
+
+3231797166716087108	Victor	1/31/06	Destiny	9710 Magnolia Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716087109	Anthony	1/31/06	Destiny	4065 Narragansett Spring Field, New Cicily
+Good
+
+3231797166716087110	Luke	1/31/06	Joseph	18782 Eighth Spring Field, New Cicily
+Good
+
+3231797166716087111	Micheal	1/31/06	Caleb	17117 Orchard Spring Field, New Cicily
+Good
+Good
+
+3231797166716087112	Desiree	1/31/06	Lauren	29239 Willow Spring Field, New Cicily
+Ugly
+Good
+
+3231797166716087113	Derek	1/31/06	Jeanne	6693 Aspen Spring Field, New Cicily
+Bad
+
+3231797166716087114	Margaret	1/31/06	Joseph	28902 Quail Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716087115	Russell	1/31/06	Caleb	19806 S 100 Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716087116	Elizabeth	1/31/06	Lauren	22702 Sunset Spring Field, New Cicily
+Ugly
+Ugly
+Bad
+
+3231797166716087117	Alfred	1/31/06	Joseph	28278 Dogwood Spring Field, New Cicily
+Bad
+Ugly
+Good
+
+3231797166716087118	Maureen	1/31/06	Joseph	9849 Navajo Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716087119	Valerie	1/31/06	Destiny	8675 Magnolia Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087120	Bethany	1/31/06	Lauren	323 Elm Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087121	Mariah	1/31/06	Jeanne	9048 S 400 Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087122	Seth	1/31/06	Alan	28464 Malulani Spring Field, New Cicily
+Ugly
+
+3231797166716087123	Benjamin	1/31/06	Jeanne	21606 Thirteenth Spring Field, New Cicily
+Ugly
+
+3231797166716087124	Ida	1/31/06	Joseph	26239 Elm Spring Field, New Cicily
+Good
+Bad
+
+3231797166716087125	Phillip	1/31/06	Caleb	16351 Johnson Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716087126	Heidi	1/31/06	Caleb	29488 S 100 Spring Field, New Cicily
+Good
+Ugly
+Ugly
+Bad
+
+3231797166716087127	Eugene	1/31/06	Caleb	13952 Lehua Spring Field, New Cicily
+Good
+Bad
+
+3231797166716087128	Julia	1/31/06	Destiny	20420 Lincoln Spring Field, New Cicily
+Good
+Bad
+Good
+
+3231797166716087129	Juanita	1/31/06	Lauren	2452 Kansas Spring Field, New Cicily
+Good
+Ugly
+
+3231797166716087130	Stephanie	1/31/06	Joseph	16404 Cherry Spring Field, New Cicily
+Bad
+Good
+Bad
+
+3231797166716087131	Sandra	1/31/06	Stacy	13106 Hillside Spring Field, New Cicily
+Bad
+
+3231797166716087132	Danielle	1/31/06	Jeanne	16813 Third Spring Field, New Cicily
+Good
+Ugly
+Bad
+
+3231797166716087133	Mariah	1/31/06	Joseph	20177 Dogwood Spring Field, New Cicily
+Ugly
+Ugly
+
+3231797166716087134	Eileen	1/31/06	Alan	19766 Birch Spring Field, New Cicily
+Bad
+Ugly
+
+3231797166716087135	Gail	1/31/06	Destiny	14662 Washington Spring Field, New Cicily
+Good
+
+3231797166716087136	Sarah	1/31/06	Caleb	28689 Pleasant Spring Field, New Cicily
+Bad
+Bad
+Bad
+
+3231797166716087137	Craig	1/31/06	Lauren	9831 Fourth Spring Field, New Cicily
+Ugly
+Ugly
+Ugly
+
+3231797166716087138	Tristan	1/31/06	Destiny	8358 River Spring Field, New Cicily
+Ugly
+
+3231797166716087139	Anne	1/31/06	Caleb	21078 Sunset Spring Field, New Cicily
+Ugly
+Good
+Bad
+
+3231797166716087140	Jackie	1/31/06	Alan	4343 Main Spring Field, New Cicily
+Good
+Good
+
+3231797166716087141	Michael	1/31/06	Alan	3872 Walnut Spring Field, New Cicily
+Good
+Ugly
+Ugly
+
