@@ -1,0 +1,28 @@
+<%inherit file="/base.htm" />
+
+<%block name="title">
+    <title>${ product.name }</title>
+    <meta name="description" content="Details about ${ product.name }.">
+</%block>
+
+<%block name="content">
+
+    <div class="productContainer">
+        <div id="imgContainer">
+          <img src="/static/homepage/media/${ product.image }" />
+        </div>
+        <div id="textContainer">
+            <h1>${ product.name }</h1>
+            <hr>
+            <p>${ product.description }</p>
+            <p><strong>Current Price:</strong> ${ product.price }</p>
+            <form class="form">
+                <label for="qty">Quantity:</label> <input id="qty" class="form-control" type="number" name="qty" min="1" value="1" />
+            </form>
+            <div>
+                <button class="cartAdd btn btn-warning" data-pid="${ product.id }">Add to Cart</button>
+            </div>
+        </div>
+    </div>
+
+</%block>

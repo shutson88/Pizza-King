@@ -1,0 +1,14 @@
+
+#cartContainer img{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#cartContainer td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.alert {
+    display: none;
+}

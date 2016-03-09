@@ -19,12 +19,10 @@
 
                     <div class="productContainer">
                         <a href="/homepage/product.detail/${ product.id }">
-                          %for i in product.productimage_set.filter(primary=True):
-                                <img src="/static/homepage/media/${ i.image.image }" />
-                          %endfor
+                          <img src="/static/homepage/media/${ product.image }" />
                         </a>
-                        <h3><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.title }</a></h3>
-                        <h5><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.common_name }</a></h5>
+                        <h3><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.name }</a></h3>
+                        <h5><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.description }</a></h5>
                     </div>
                 %endfor
             </div>

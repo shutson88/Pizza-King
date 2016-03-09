@@ -1,0 +1,30 @@
+.productContainer{
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.productContainer > div{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#imgContainer{
+    max-width: 500px;
+    text-align: center;
+}
+
+#imgContainer img{
+    max-width: 500px;
+}
+
+#textContainer{
+    margin:0 0 0 20px;
+    max-width: 575px;
+    border-left: 1px solid #ccc;
+    padding-left: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
