@@ -1,0 +1,46 @@
+<%inherit file="base.htm" />
+
+<%block name="title">
+    <title>Users | Admin</title>
+    <meta name="description" content="List of site users.">
+</%block>
+
+<%block name="content">
+    <div class="content">
+
+        %if error_message:
+            <div class="alert alert-danger" role="alert">Clean the database records, empty username value</div>
+        %endif
+
+        <h1>User List</h1>
+        <table class="table table-striped">
+            <tr>
+##              TODO: add is_active to list, or only show active...
+                <th>User Name</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>State</th>
+                <th>Zip</th>
+            </tr>
+            %for user in users:
+                <tr>
+                    <td>${ user.username }</td>
+                    <td>${ user.first_name }</td>
+                    <td>${ user.last_name}</td>
+                    <td>${ user.email }</td>
+                    %for a in address:
+                        %if a.user_id == user.id:
+                            <td>${ a.address1 }</td>
+                            <td>${ a.city }</td>
+                            <td>${ a.state }</td>
+                            <td>${ a.postal_code }</td>
+                        %endif
+                    %endfor
+                </tr>
+            %endfor
+        </table>
+    </div>
+</%block>
