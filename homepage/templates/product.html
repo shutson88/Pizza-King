@@ -1,0 +1,26 @@
+<%inherit file="base.htm" />
+
+<%block name="title">
+    <title>Search Pizza</title>
+    <meta name="description" content="Catalog of available products for sale.">
+</%block>
+
+<%block name="content">
+
+    <h1>Search Results</h1>
+    <p>Here are the pizzas that match your serach. Click on each product to purchase or learn more!</p>
+
+    %for product in products:
+    <div class="productContainer">
+        <!-- TODO: dynamic pictures -->
+        <a href="/homepage/product.detail/${ product.id }">
+          <img src="/static/homepage/media/${ product.image }" />
+        </a>
+        <h4><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.name }</a></h4>
+        %if request.user.has_perm('homepage.add_product'):
+            <p>Product ID: ${ product.id }</p>
+        %endif
+        <button class="cartAdd btn btn-warning" data-pid="${ product.id }">Add to Cart</button>
+    </div>
+    %endfor
+</%block>

@@ -33,4 +33,13 @@ def detail(request):
     return templater.render_to_response(request, 'product.detail.html', params)
 
 
+# ########### Show list of records ###########
+@view_function
+def search(request):
+    params = {}
 
+    # TODO: also check description
+    products = hmod.Pizza.objects.all().filter(name__icontains=request.urlparams[0])
+
+    params['products'] = products
+    return templater.render_to_response(request, 'product.html', params)
