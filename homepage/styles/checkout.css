@@ -1,0 +1,18 @@
+
+#cartContainer img{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#cartContainer td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+#cartContainer td textarea{
+    width: 100%;
+}
+
+.alert {
+    display: none;
+}
