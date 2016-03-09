@@ -1,0 +1,20 @@
+<%inherit file="base.htm" />
+
+<%block name="title">
+    <title>Edit Account | Colonial Heritage Foundation</title>
+    <meta name="description" content="Edit the details of this account.">
+</%block>
+
+<%block name="content">
+    <div class="content">
+        <h1>Edit Account</h1>
+        <form method="post" class="form col-md-6">
+            <table class="myTable">
+                ${ form }
+            </table>
+            <a class="btn btn-danger" href="/homepage/account.delete/${ user.id }">Delete</a>
+            <a class="btn btn-primary" href="/homepage/account.change_password/${user.id}">Change Password</a>
+            <button type="submit" class="btn btn-warning form-button">Submit</button>
+        </form>
+    </div>
+</%block>

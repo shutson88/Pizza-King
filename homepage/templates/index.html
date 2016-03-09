@@ -1,8 +1,33 @@
 <%inherit file="base.htm" />
 
+<%block name="title">
+    <title>Pizza King</title>
+    <meta name="description" content="Welcome to Pizza King.">
+</%block>
+
 <%block name="content">
     <div class="content">
-      <h3>Congratulations -- you've successfully created a new django-mako-plus app!</h3>
-      <h4>Next Up: Go through the django-mako-plus tutorial and add Javascript, CSS, and urlparams to this page.</h4>
+        %if error_message:
+            <div class="alert alert-danger" role="alert">You must be logged in before you can place an order!</div>
+        %endif
+        <h1>Welcome to Pizza King!</h1>
+        <div class="container">
+            <div id="products" class="col-md-7">
+                <p>Pick your pizza.</p>
+                <hr>
+                %for product in products:
+
+                    <div class="productContainer">
+                        <a href="/homepage/product.detail/${ product.id }">
+                          %for i in product.productimage_set.filter(primary=True):
+                                <img src="/static/homepage/media/${ i.image.image }" />
+                          %endfor
+                        </a>
+                        <h3><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.title }</a></h3>
+                        <h5><a class="detail-link" href="/homepage/product.detail/${ product.id }">${ product.common_name }</a></h5>
+                    </div>
+                %endfor
+            </div>
+        </div>
     </div>
 </%block>

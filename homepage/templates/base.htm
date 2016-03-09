@@ -5,31 +5,83 @@
 <%  static_renderer = static_files.StaticRenderer(self) %>
 
 <!DOCTYPE html>
-<html>
-  <meta charset="UTF-8">
+<html lang="en">
+
   <head>
-    
-    <title>homepage</title>
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/static/homepage/media/fishFavicon.png" />
+
+    <%block name="title">
+        <title>Pizza King</title>
+    </%block>
+
     ## add any site-wide scripts or CSS here; for example, jquery:
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  
+    <script src="${ STATIC_URL }homepage/media/scripts/jquery.form.js"></script>
+    <script src="${ STATIC_URL }homepage/media/scripts/jquery.loadmodal.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Marcellus' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    <!-- DatePicker -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <!--script src="//code.jquery.com/jquery-1.11.4.js"></script-->
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
     ## render the css with the same name as this page
-    ${ static_renderer.get_template_css(request, context)  }
-  
+    ${ static_renderer.get_template_css(request, context) }
+
   </head>
   <body>
-  
-    <header>
-      Welcome to the homepage app!
-    </header>
-  
-    <%block name="content">
-      Site content goes here in sub-templates.
-    </%block>  
-  
+    <nav class="navbar navbar-default">
+        <ul class="nav navbar-nav">
+            <li class="menu-main-link"><a id="navbar-logo" href="/">PIZZA KING</a></li>
+            <!--li class="menu-main-link"><a href="/homepage/about">About</a></li-->
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+        %if request.user.is_authenticated():
+            <li id="menu-main-link" class="dropdown padding-right">
+                <a class="dropdown-toggle" data-toggle="dropdown">${ request.user.first_name }'s Account<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                    <li id="menu-link" class="dropdown-header">User Pages</li>
+                    <li id="menu-link"><a href="/homepage/account.logout_user">Logout</a></li>
+                    <li id="menu-link"><a href="/homepage/account">My Account</a></li>
+                    <li id="menu-link"><a href="/homepage/checkout">Cart/Checkout</a></li>
+                    %if request.user.is_superuser:
+                        <li class="divider"></li>
+                        <li id="menu-link" class="dropdown-header">Admin Pages</li>
+                        <li id="menu-link"><a href="/homepage/user">Users</a></li>
+                        <!--li id="menu-link"><a href="/homepage/legal_entity">Stores</a></li-->
+                    %endif
+                </ul>
+            </li>
+        %else:
+            <li id="menu-main-link"><a id="showLoginDialog">Login</a></li>
+            <li id="menu-main-link"><a href="/homepage/account.create">Create Account</a></li>
+        %endif
+        </ul>
+    </nav>
+
+    <div class="container">
+        <%block name="content">
+          Site content goes here in sub-templates.
+        </%block>
+    </div>
+    </div>
+
+    <footer id="footer" style="margin-bottom: 0" class="well well-sm navbar navbar-fixed-bottom">
+        <%block name="footer">
+            <p class="container"><span class="glyphicon glyphicon-copyright-mark" aria-hidden="true"></span> 2015, Fish Store<!-- | <a href="/homepage/contact"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact Us</a--></p>
+        </%block>
+    </footer>
     ## render the JS with the same name as this page
     ${ static_renderer.get_template_js(request, context)  }
-  
+
   </body>
+
 </html>
